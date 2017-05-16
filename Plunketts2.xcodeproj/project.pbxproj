@@ -14,6 +14,11 @@
 		C2954FEC1EBE1CE30039CEFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2954FEB1EBE1CE30039CEFA /* Assets.xcassets */; };
 		C2954FEF1EBE1CE30039CEFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2954FED1EBE1CE30039CEFA /* LaunchScreen.storyboard */; };
 		C2954FFA1EBE1CE30039CEFA /* Plunketts2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FF91EBE1CE30039CEFA /* Plunketts2Tests.swift */; };
+		C2E941E11ECB3AB10050E7BB /* Fabric.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2E941DD1ECB3AB10050E7BB /* Fabric.framework */; };
+		C2E941E21ECB3AB10050E7BB /* TwitterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2E941DE1ECB3AB10050E7BB /* TwitterKit.framework */; };
+		C2E941E31ECB3AB10050E7BB /* TwitterKitResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C2E941DF1ECB3AB10050E7BB /* TwitterKitResources.bundle */; };
+		C2E941E41ECB3AB10050E7BB /* TwitterCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2E941E01ECB3AB10050E7BB /* TwitterCore.framework */; };
+		C2E941E61ECB3E3D0050E7BB /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E941E51ECB3E3D0050E7BB /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +43,11 @@
 		C2954FF51EBE1CE30039CEFA /* Plunketts2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Plunketts2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2954FF91EBE1CE30039CEFA /* Plunketts2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plunketts2Tests.swift; sourceTree = "<group>"; };
 		C2954FFB1EBE1CE30039CEFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2E941DD1ECB3AB10050E7BB /* Fabric.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Fabric.framework; sourceTree = SOURCE_ROOT; };
+		C2E941DE1ECB3AB10050E7BB /* TwitterKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterKit.framework; sourceTree = SOURCE_ROOT; };
+		C2E941DF1ECB3AB10050E7BB /* TwitterKitResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = TwitterKitResources.bundle; path = TwitterKit.framework/Versions/A/Resources/TwitterKitResources.bundle; sourceTree = SOURCE_ROOT; };
+		C2E941E01ECB3AB10050E7BB /* TwitterCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterCore.framework; sourceTree = SOURCE_ROOT; };
+		C2E941E51ECB3E3D0050E7BB /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +55,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2E941E11ECB3AB10050E7BB /* Fabric.framework in Frameworks */,
+				C2E941E41ECB3AB10050E7BB /* TwitterCore.framework in Frameworks */,
+				C2E941E21ECB3AB10050E7BB /* TwitterKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,9 +92,14 @@
 		C2954FE11EBE1CE30039CEFA /* Plunketts2 */ = {
 			isa = PBXGroup;
 			children = (
+				C2E941DD1ECB3AB10050E7BB /* Fabric.framework */,
+				C2E941DE1ECB3AB10050E7BB /* TwitterKit.framework */,
+				C2E941DF1ECB3AB10050E7BB /* TwitterKitResources.bundle */,
+				C2E941E01ECB3AB10050E7BB /* TwitterCore.framework */,
 				C2954FE21EBE1CE30039CEFA /* AppDelegate.swift */,
 				C2954FE41EBE1CE30039CEFA /* FirstViewController.swift */,
 				C2954FE61EBE1CE30039CEFA /* SecondViewController.swift */,
+				C2E941E51ECB3E3D0050E7BB /* ThirdViewController.swift */,
 				C2954FE81EBE1CE30039CEFA /* Main.storyboard */,
 				C2954FEB1EBE1CE30039CEFA /* Assets.xcassets */,
 				C2954FED1EBE1CE30039CEFA /* LaunchScreen.storyboard */,
@@ -109,6 +127,7 @@
 				C2954FDB1EBE1CE30039CEFA /* Sources */,
 				C2954FDC1EBE1CE30039CEFA /* Frameworks */,
 				C2954FDD1EBE1CE30039CEFA /* Resources */,
+				C2E941DC1ECB3A3F0050E7BB /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -149,6 +168,7 @@
 				TargetAttributes = {
 					C2954FDE1EBE1CE30039CEFA = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 86H3NZ78VF;
 						ProvisioningStyle = Automatic;
 					};
 					C2954FF41EBE1CE30039CEFA = {
@@ -182,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2E941E31ECB3AB10050E7BB /* TwitterKitResources.bundle in Resources */,
 				C2954FEF1EBE1CE30039CEFA /* LaunchScreen.storyboard in Resources */,
 				C2954FEC1EBE1CE30039CEFA /* Assets.xcassets in Resources */,
 				C2954FEA1EBE1CE30039CEFA /* Main.storyboard in Resources */,
@@ -197,6 +218,22 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		C2E941DC1ECB3A3F0050E7BB /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "./Fabric.framework/run ee5b3fed36cf115b051df70f3876488de6e8c78f 1204a1c161965229ec5f122e1ba90b6096c93edd37206e1e68f8af8a3923e17a";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		C2954FDB1EBE1CE30039CEFA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -204,6 +241,7 @@
 			files = (
 				C2954FE71EBE1CE30039CEFA /* SecondViewController.swift in Sources */,
 				C2954FE31EBE1CE30039CEFA /* AppDelegate.swift in Sources */,
+				C2E941E61ECB3E3D0050E7BB /* ThirdViewController.swift in Sources */,
 				C2954FE51EBE1CE30039CEFA /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -345,6 +383,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 86H3NZ78VF;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = Plunketts2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = BBBenterprises.Plunketts2;
@@ -357,6 +401,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 86H3NZ78VF;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = Plunketts2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = BBBenterprises.Plunketts2;
@@ -412,6 +462,7 @@
 				C29550001EBE1CE30039CEFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C29550011EBE1CE30039CEFA /* Build configuration list for PBXNativeTarget "Plunketts2Tests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +471,7 @@
 				C29550031EBE1CE30039CEFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
