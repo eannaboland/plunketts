@@ -73,7 +73,7 @@
                             <constraint firstItem="y0R-CI-YCQ" firstAttribute="top" secondItem="jmp-ln-aVQ" secondAttribute="bottom" constant="8" symbolic="YES" id="omJ-fk-gLF"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Fixtures" image="hurling_icon_small" selectedImage="hurling_icon_small" id="acW-dT-cKf"/>
+                    <tabBarItem key="tabBarItem" title="Fixtures" image="hurling_icon_small copy" selectedImage="hurling_icon_small copy" id="acW-dT-cKf"/>
                     <connections>
                         <outlet property="teamLabel" destination="jmp-ln-aVQ" id="Bil-k8-BoI"/>
                         <outlet property="teamPhoto" destination="Ivy-9e-W1f" id="1T3-JG-nCi"/>
@@ -154,7 +154,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
-                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="ppw-Wc-p9I">
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="TwitterCell" id="ppw-Wc-p9I">
                                 <rect key="frame" x="0.0" y="28" width="375" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="ppw-Wc-p9I" id="THS-cu-0bq">
@@ -179,6 +179,6 @@
         <image name="Champagne-26" width="26" height="26"/>
         <image name="Twitter-48" width="24" height="24"/>
         <image name="defaultPhoto" width="540" height="540"/>
-        <image name="hurling_icon_small" width="42" height="44"/>
+        <image name="hurling_icon_small copy" width="30" height="31"/>
     </resources>
 </document>
