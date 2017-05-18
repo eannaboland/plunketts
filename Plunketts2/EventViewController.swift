@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  EventViewController.swift
 //  Plunketts2
 //
 //  Created by Eanna Boland on 06/05/2017.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class EventViewController: UIViewController {
 
     @IBOutlet weak var videoview: UIWebView!
     override func viewDidLoad() {

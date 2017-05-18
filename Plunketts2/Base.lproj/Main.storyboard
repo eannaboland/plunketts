@@ -299,7 +299,67 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4Nw-L8-lE0" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1466" y="0.0"/>
+            <point key="canvasLocation" x="2367" y="0.0"/>
+        </scene>
+        <!--Events-->
+        <scene sceneID="Thl-8L-G9C">
+            <objects>
+                <tableViewController id="Afe-oD-wa5" customClass="EventListViewController" customModule="Plunketts2" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="235" sectionHeaderHeight="28" sectionFooterHeight="28" id="5tz-C3-mJE">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.16078431372549018" green="0.18431372549019609" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="EventList" rowHeight="235" id="XfH-4f-yki" customClass="EventListCell" customModule="Plunketts2" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="28" width="375" height="235"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="XfH-4f-yki" id="Luc-w0-SRX">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="234.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="x0Q-UC-Ah6">
+                                            <rect key="frame" x="12" y="12" width="351" height="211"/>
+                                        </imageView>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="eventName" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JeK-PI-WUE">
+                                            <rect key="frame" x="27" y="21" width="197" height="21"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="DateTime" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Srx-Cv-tbw">
+                                            <rect key="frame" x="27" y="50" width="197" height="21"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                    <color key="backgroundColor" red="0.16078431372549018" green="0.18431372549019609" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <constraints>
+                                        <constraint firstItem="x0Q-UC-Ah6" firstAttribute="leading" secondItem="Luc-w0-SRX" secondAttribute="leadingMargin" constant="4" id="4Vc-0J-Oeh"/>
+                                        <constraint firstItem="x0Q-UC-Ah6" firstAttribute="centerX" secondItem="Luc-w0-SRX" secondAttribute="centerX" id="9HQ-ax-H2Q"/>
+                                        <constraint firstItem="x0Q-UC-Ah6" firstAttribute="centerY" secondItem="Luc-w0-SRX" secondAttribute="centerY" id="N9J-pl-F0F"/>
+                                        <constraint firstItem="x0Q-UC-Ah6" firstAttribute="top" secondItem="Luc-w0-SRX" secondAttribute="topMargin" constant="4" id="NGS-cI-GR0"/>
+                                    </constraints>
+                                </tableViewCellContentView>
+                                <color key="backgroundColor" red="0.16078431372549018" green="0.18431372549019609" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <outlet property="eventImage" destination="x0Q-UC-Ah6" id="vnF-80-Wjq"/>
+                                    <outlet property="eventName" destination="JeK-PI-WUE" id="PxZ-dV-2e1"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="Afe-oD-wa5" id="e7S-nF-TCm"/>
+                            <outlet property="delegate" destination="Afe-oD-wa5" id="RZR-ml-wOc"/>
+                        </connections>
+                    </tableView>
+                    <tabBarItem key="tabBarItem" title="Events" image="Champagne-26" selectedImage="Champagne-26" id="jkF-tJ-f7I"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Pjp-Rh-0fS" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="704.79999999999995" y="-0.44977511244377816"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="yl2-sM-qoP">
@@ -314,8 +374,8 @@
                     </tabBar>
                     <connections>
                         <segue destination="Gmp-OO-24W" kind="relationship" relationship="viewControllers" id="djb-qy-kfd"/>
-                        <segue destination="8rJ-Kc-sve" kind="relationship" relationship="viewControllers" id="lzU-1b-eKA"/>
                         <segue destination="ewC-Oq-bCM" kind="relationship" relationship="viewControllers" id="DuQ-H7-zb5"/>
+                        <segue destination="Afe-oD-wa5" kind="relationship" relationship="viewControllers" id="2xo-cA-1sm"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HuB-VB-40B" sceneMemberID="firstResponder"/>
@@ -349,7 +409,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tGK-6f-DBr" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="750" y="360"/>
+            <point key="canvasLocation" x="810" y="771"/>
         </scene>
     </scenes>
     <resources>

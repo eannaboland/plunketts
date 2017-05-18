@@ -173,7 +173,7 @@ class FixtureListCell: UITableViewCell {
     @IBOutlet weak var dateTime: UILabel!
     
 
-}
+    }
 
 
 class Fixture {

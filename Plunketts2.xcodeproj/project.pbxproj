@@ -9,9 +9,10 @@
 /* Begin PBXBuildFile section */
 		59D1F62C2D707F73CAD8777F /* libPods-Plunketts2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FDB50806E5EBA081343CC118 /* libPods-Plunketts2.a */; };
 		C2375E001ECDA0E6007D6A09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2375DFE1ECDA0E6007D6A09 /* Main.storyboard */; };
+		C26D5C501ECDB327006FF3F9 /* EventListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26D5C4F1ECDB327006FF3F9 /* EventListViewController.swift */; };
 		C2954FE31EBE1CE30039CEFA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FE21EBE1CE30039CEFA /* AppDelegate.swift */; };
 		C2954FE51EBE1CE30039CEFA /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FE41EBE1CE30039CEFA /* FirstViewController.swift */; };
-		C2954FE71EBE1CE30039CEFA /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FE61EBE1CE30039CEFA /* SecondViewController.swift */; };
+		C2954FE71EBE1CE30039CEFA /* EventViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FE61EBE1CE30039CEFA /* EventViewController.swift */; };
 		C2954FEC1EBE1CE30039CEFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2954FEB1EBE1CE30039CEFA /* Assets.xcassets */; };
 		C2954FEF1EBE1CE30039CEFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2954FED1EBE1CE30039CEFA /* LaunchScreen.storyboard */; };
 		C2954FFA1EBE1CE30039CEFA /* Plunketts2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FF91EBE1CE30039CEFA /* Plunketts2Tests.swift */; };
@@ -37,10 +38,11 @@
 		58270C4C19D25805AC7621F5 /* Pods-Plunketts2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Plunketts2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Plunketts2/Pods-Plunketts2.debug.xcconfig"; sourceTree = "<group>"; };
 		997CF75A6ACD3FD53A43D83A /* Pods-Plunketts2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Plunketts2.release.xcconfig"; path = "Pods/Target Support Files/Pods-Plunketts2/Pods-Plunketts2.release.xcconfig"; sourceTree = "<group>"; };
 		C2375DFF1ECDA0E6007D6A09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C26D5C4F1ECDB327006FF3F9 /* EventListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventListViewController.swift; sourceTree = "<group>"; };
 		C2954FDF1EBE1CE30039CEFA /* Plunketts2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Plunketts2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2954FE21EBE1CE30039CEFA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C2954FE41EBE1CE30039CEFA /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		C2954FE61EBE1CE30039CEFA /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		C2954FE61EBE1CE30039CEFA /* EventViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventViewController.swift; sourceTree = "<group>"; };
 		C2954FEB1EBE1CE30039CEFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2954FEE1EBE1CE30039CEFA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2954FF01EBE1CE30039CEFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -124,9 +126,10 @@
 				C2E941E01ECB3AB10050E7BB /* TwitterCore.framework */,
 				C2954FE21EBE1CE30039CEFA /* AppDelegate.swift */,
 				C2954FE41EBE1CE30039CEFA /* FirstViewController.swift */,
-				C2954FE61EBE1CE30039CEFA /* SecondViewController.swift */,
-				C2E941E51ECB3E3D0050E7BB /* ThirdViewController.swift */,
+				C2954FE61EBE1CE30039CEFA /* EventViewController.swift */,
+				C26D5C4F1ECDB327006FF3F9 /* EventListViewController.swift */,
 				C2E941E91ECC48F20050E7BB /* FixtureListViewController.swift */,
+				C2E941E51ECB3E3D0050E7BB /* ThirdViewController.swift */,
 				C2375DFE1ECDA0E6007D6A09 /* Main.storyboard */,
 				C2954FEB1EBE1CE30039CEFA /* Assets.xcassets */,
 				C2954FED1EBE1CE30039CEFA /* LaunchScreen.storyboard */,
@@ -315,7 +318,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C2E941EA1ECC48F20050E7BB /* FixtureListViewController.swift in Sources */,
-				C2954FE71EBE1CE30039CEFA /* SecondViewController.swift in Sources */,
+				C26D5C501ECDB327006FF3F9 /* EventListViewController.swift in Sources */,
+				C2954FE71EBE1CE30039CEFA /* EventViewController.swift in Sources */,
 				C2954FE31EBE1CE30039CEFA /* AppDelegate.swift in Sources */,
 				C2E941E61ECB3E3D0050E7BB /* ThirdViewController.swift in Sources */,
 				C2954FE51EBE1CE30039CEFA /* FirstViewController.swift in Sources */,
