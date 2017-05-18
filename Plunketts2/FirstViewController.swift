@@ -28,6 +28,7 @@ class FirstViewController: UIViewController, UITextFieldDelegate, UIImagePickerC
     @IBOutlet weak var awayTeamCrest: UIImageView!
     @IBOutlet weak var fixtureMapView: MKMapView!
     //@IBOutlet weak var googleMapView: GMSMapView!
+    @IBOutlet weak var calendarIcon: UIImageView!
     
 
     
