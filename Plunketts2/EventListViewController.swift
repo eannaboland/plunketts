@@ -54,6 +54,16 @@ class EventListViewController: UITableViewController {
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return events.count
     }
+    
+    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        
+        let eventCell = events[indexPath.row]
+        let storyboard = UIStoryboard(name: "Main", bundle: nil)
+        let controller = storyboard.instantiateViewController(withIdentifier: "EventViewController") as! EventViewController
+        controller.event = eventCell
+        self.navigationController?.pushViewController(controller, animated: true)
+        
+    }
 
 }
 
@@ -79,10 +89,6 @@ class Event {
         //self.date = date
         //self.time = time
         //self.location = location
-
-        
     }
-    
-    
-    
+
 }

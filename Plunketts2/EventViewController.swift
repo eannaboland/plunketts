@@ -10,6 +10,9 @@ import UIKit
 
 class EventViewController: UIViewController {
 
+    
+    var event: Event?
+    
     @IBOutlet weak var videoview: UIWebView!
     override func viewDidLoad() {
         super.viewDidLoad()

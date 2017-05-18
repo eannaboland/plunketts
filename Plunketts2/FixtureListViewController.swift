@@ -11,9 +11,7 @@ import UIKit
 
 class FixtureListViewController: UITableViewController {
     
-    let clubNames = ["Dublin GAA Head Office", "Adamstown","AIB","Ballinteer St. Johns","Ballyboden St. Endas","Ballyboughal",
-                          "Ballyfermot De La Salle",
-                          "Ballymun Kickhams",
+    let clubNames = ["Dublin GAA Head Office", "Adamstown","AIB","Ballinteer St. Johns","Ballyboden St. Endas","Ballyboughal", "Ballyfermot De La Salle", "Ballymun Kickhams",
                           "Bank of Ireland",
                           "Beann Eadair",
                           "Castleknock",
@@ -29,8 +27,7 @@ class FixtureListViewController: UITableViewController {
                         "Erin Go Bragh",
                         "Erins Isle",
                         "Faughs",
-            "Fingallians",
-        "Fingal Ravens",
+            "Fingallians","Fingal Ravens",
         "Garda",
         "Garristown",
         "Geraldine Morans",
