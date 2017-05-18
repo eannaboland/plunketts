@@ -7,98 +7,89 @@
 //
 
 import UIKit
+import MapKit
+import GoogleMaps
+
+
 
 class FirstViewController: UIViewController, UITextFieldDelegate, UIImagePickerControllerDelegate,UINavigationControllerDelegate {
     
     
-     //MARK: Arrays
-        let teamArray = ["Senior Hurlers","Intermediate Hurlers","Junior Hurlers"]
-        let imageArray = ["Adamstown","AIB","Ballinteer St. Johns"]
+    var fixture: Fixture?
     
     
      //MARK: Properties
     
-    @IBOutlet weak var teamText: UITextField!
-    @IBOutlet weak var teamLabel: UILabel!
     @IBOutlet weak var teamPhoto: UIImageView!
+    @IBOutlet weak var homeTeamLabel: UILabel!
+    @IBOutlet weak var awayTeamLabel: UILabel!
+    @IBOutlet weak var competitionLabel: UILabel!
+    @IBOutlet weak var teamName: UILabel!
+    @IBOutlet weak var awayTeamCrest: UIImageView!
+    @IBOutlet weak var fixtureMapView: MKMapView!
+    //@IBOutlet weak var googleMapView: GMSMapView!
     
+
     
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
    
         // Handle the text field’s user input through delegate callbacks.
-        teamText.delegate = self
-    }
 
-    
-    
-    
-    //MARK: UITextFieldDelegate
-    
-    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
-        // Hide the keyboard.
-        textField.resignFirstResponder()
-        return true
-    }
-    
-    func textFieldDidEndEditing(_ textField: UITextField) {
-        teamLabel.text = textField.text
-    }
-    
-    
-    
- //MARK: UIImagePickerControllerDelegate
-    func imagePickerControllerDidCancel(_ picker: UIImagePickerController) {
-        // Dismiss the picker if the user canceled.
-        dismiss(animated: true, completion: nil)
-    }
-    
-    func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [String : Any]) {
+        homeTeamLabel.text = "St. Oliver Plunkett Eoghan Ruadh"
+        teamName.text = fixture?.teamName
+        awayTeamLabel.text = fixture?.awayTeam
+        competitionLabel.text = fixture?.competition
+        let teamCrest = UIImage(named: awayTeamLabel.text!)
+        awayTeamCrest?.image = teamCrest
         
-        // The info dictionary may contain multiple representations of the image. You want to use the original.
-        guard let selectedImage = info[UIImagePickerControllerOriginalImage] as? UIImage else {
-            fatalError("Expected a dictionary containing an image, but was provided the following: \(info)")
+        
+        
+        
+        //Maps
+        // set initial location in Martin Savage Park
+        let location = CLLocationCoordinate2DMake(53.3740831, -6.3261881)
+        
+        let span = MKCoordinateSpanMake(0.05, 0.05)
+        
+        let region = MKCoordinateRegion (center: location, span: span)
+        
+        fixtureMapView.setRegion(region, animated: true)
+        
+        //pin
+        let annotation = MKPointAnnotation()
+        annotation.coordinate = location
+        annotation.title = "St. Oliver Plunkett Eoghan Ruadh"
+        annotation.subtitle = "Martin Savage Park"
+        
+        fixtureMapView.addAnnotation(annotation)
+ 
         }
         
-        // Set photoImageView to display the selected image.
-        teamPhoto.image = selectedImage
+
+
+    
+        //
+        /*
+        GMSServices.provideAPIKey("AIzaSyCBh4cOdxjCqo9rlKzbygph-2IhBo2_VFQ")
         
-        // Dismiss the picker.
-        dismiss(animated: true, completion: nil)
+        let camera = GMSCameraPosition.camera(withLatitude: 53.3740831, longitude: -6.3261881, zoom: 6.0)
+        let mapView = GMSMapView.map(withFrame: CGRect.zero, camera: camera)
+        
+        view = mapView
+        */
+        
+        
+        
+        
+        //remove back button text
+        //navigationItem.backBarButtonItem = UIBarButtonItem(title: "", style: .plain, target: nil, action: nil)
     }
     
 
-    
-
-    //MARK: Actions
-    
-    @IBAction func picker(_ sender: UITapGestureRecognizer) {
-        
-        // Hide the keyboard.
-        teamText.resignFirstResponder()
-        
-        // If image is clicked.
-        print("Image pressed 👍")
-        
-        // UIImagePickerController is a view controller that lets a user pick media from their photo library.
-        let imagePickerController = UIImagePickerController()
-        
-        // Only allow photos to be picked, not taken.
-        imagePickerController.sourceType = .photoLibrary
-        
-        // Make sure ViewController is notified when the user picks an image.
-        imagePickerController.delegate = self
-        present(imagePickerController, animated: true, completion: nil)
-    }
-
-    
-    
-    @IBAction func setDefaultText(_ sender: UIButton) {
-         teamLabel.text = "Senior Hurlers"
-    }
     
  
-    
-}
+
 

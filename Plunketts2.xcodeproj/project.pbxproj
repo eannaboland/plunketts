@@ -7,10 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		59D1F62C2D707F73CAD8777F /* libPods-Plunketts2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FDB50806E5EBA081343CC118 /* libPods-Plunketts2.a */; };
+		C2375E001ECDA0E6007D6A09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2375DFE1ECDA0E6007D6A09 /* Main.storyboard */; };
 		C2954FE31EBE1CE30039CEFA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FE21EBE1CE30039CEFA /* AppDelegate.swift */; };
 		C2954FE51EBE1CE30039CEFA /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FE41EBE1CE30039CEFA /* FirstViewController.swift */; };
 		C2954FE71EBE1CE30039CEFA /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FE61EBE1CE30039CEFA /* SecondViewController.swift */; };
-		C2954FEA1EBE1CE30039CEFA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2954FE81EBE1CE30039CEFA /* Main.storyboard */; };
 		C2954FEC1EBE1CE30039CEFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2954FEB1EBE1CE30039CEFA /* Assets.xcassets */; };
 		C2954FEF1EBE1CE30039CEFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2954FED1EBE1CE30039CEFA /* LaunchScreen.storyboard */; };
 		C2954FFA1EBE1CE30039CEFA /* Plunketts2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FF91EBE1CE30039CEFA /* Plunketts2Tests.swift */; };
@@ -19,6 +20,7 @@
 		C2E941E31ECB3AB10050E7BB /* TwitterKitResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C2E941DF1ECB3AB10050E7BB /* TwitterKitResources.bundle */; };
 		C2E941E41ECB3AB10050E7BB /* TwitterCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2E941E01ECB3AB10050E7BB /* TwitterCore.framework */; };
 		C2E941E61ECB3E3D0050E7BB /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E941E51ECB3E3D0050E7BB /* ThirdViewController.swift */; };
+		C2E941EA1ECC48F20050E7BB /* FixtureListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E941E91ECC48F20050E7BB /* FixtureListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,11 +34,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		58270C4C19D25805AC7621F5 /* Pods-Plunketts2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Plunketts2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Plunketts2/Pods-Plunketts2.debug.xcconfig"; sourceTree = "<group>"; };
+		997CF75A6ACD3FD53A43D83A /* Pods-Plunketts2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Plunketts2.release.xcconfig"; path = "Pods/Target Support Files/Pods-Plunketts2/Pods-Plunketts2.release.xcconfig"; sourceTree = "<group>"; };
+		C2375DFF1ECDA0E6007D6A09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C2954FDF1EBE1CE30039CEFA /* Plunketts2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Plunketts2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2954FE21EBE1CE30039CEFA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C2954FE41EBE1CE30039CEFA /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		C2954FE61EBE1CE30039CEFA /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
-		C2954FE91EBE1CE30039CEFA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C2954FEB1EBE1CE30039CEFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2954FEE1EBE1CE30039CEFA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2954FF01EBE1CE30039CEFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -48,6 +52,8 @@
 		C2E941DF1ECB3AB10050E7BB /* TwitterKitResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = TwitterKitResources.bundle; path = TwitterKit.framework/Versions/A/Resources/TwitterKitResources.bundle; sourceTree = SOURCE_ROOT; };
 		C2E941E01ECB3AB10050E7BB /* TwitterCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterCore.framework; sourceTree = SOURCE_ROOT; };
 		C2E941E51ECB3E3D0050E7BB /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		C2E941E91ECC48F20050E7BB /* FixtureListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FixtureListViewController.swift; sourceTree = "<group>"; };
+		FDB50806E5EBA081343CC118 /* libPods-Plunketts2.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Plunketts2.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,7 @@
 				C2E941E11ECB3AB10050E7BB /* Fabric.framework in Frameworks */,
 				C2E941E41ECB3AB10050E7BB /* TwitterCore.framework in Frameworks */,
 				C2E941E21ECB3AB10050E7BB /* TwitterKit.framework in Frameworks */,
+				59D1F62C2D707F73CAD8777F /* libPods-Plunketts2.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -71,12 +78,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7435F8CDF24828A316C57B54 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				58270C4C19D25805AC7621F5 /* Pods-Plunketts2.debug.xcconfig */,
+				997CF75A6ACD3FD53A43D83A /* Pods-Plunketts2.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A3C1FE0F25631C57E75492BF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FDB50806E5EBA081343CC118 /* libPods-Plunketts2.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		C2954FD61EBE1CE30039CEFA = {
 			isa = PBXGroup;
 			children = (
 				C2954FE11EBE1CE30039CEFA /* Plunketts2 */,
 				C2954FF81EBE1CE30039CEFA /* Plunketts2Tests */,
 				C2954FE01EBE1CE30039CEFA /* Products */,
+				7435F8CDF24828A316C57B54 /* Pods */,
+				A3C1FE0F25631C57E75492BF /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -100,7 +126,8 @@
 				C2954FE41EBE1CE30039CEFA /* FirstViewController.swift */,
 				C2954FE61EBE1CE30039CEFA /* SecondViewController.swift */,
 				C2E941E51ECB3E3D0050E7BB /* ThirdViewController.swift */,
-				C2954FE81EBE1CE30039CEFA /* Main.storyboard */,
+				C2E941E91ECC48F20050E7BB /* FixtureListViewController.swift */,
+				C2375DFE1ECDA0E6007D6A09 /* Main.storyboard */,
 				C2954FEB1EBE1CE30039CEFA /* Assets.xcassets */,
 				C2954FED1EBE1CE30039CEFA /* LaunchScreen.storyboard */,
 				C2954FF01EBE1CE30039CEFA /* Info.plist */,
@@ -124,10 +151,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C2954FFE1EBE1CE30039CEFA /* Build configuration list for PBXNativeTarget "Plunketts2" */;
 			buildPhases = (
+				8DA3D97935F1EE33A37B6C98 /* [CP] Check Pods Manifest.lock */,
 				C2954FDB1EBE1CE30039CEFA /* Sources */,
 				C2954FDC1EBE1CE30039CEFA /* Frameworks */,
 				C2954FDD1EBE1CE30039CEFA /* Resources */,
 				C2E941DC1ECB3A3F0050E7BB /* ShellScript */,
+				42D96152F5B2C839ABFC1FD2 /* [CP] Embed Pods Frameworks */,
+				10B09E103FBD4326E7A3FBDF /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -205,7 +235,7 @@
 				C2E941E31ECB3AB10050E7BB /* TwitterKitResources.bundle in Resources */,
 				C2954FEF1EBE1CE30039CEFA /* LaunchScreen.storyboard in Resources */,
 				C2954FEC1EBE1CE30039CEFA /* Assets.xcassets in Resources */,
-				C2954FEA1EBE1CE30039CEFA /* Main.storyboard in Resources */,
+				C2375E001ECDA0E6007D6A09 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,6 +249,51 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		10B09E103FBD4326E7A3FBDF /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Plunketts2/Pods-Plunketts2-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		42D96152F5B2C839ABFC1FD2 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Plunketts2/Pods-Plunketts2-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8DA3D97935F1EE33A37B6C98 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
 		C2E941DC1ECB3A3F0050E7BB /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -239,6 +314,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2E941EA1ECC48F20050E7BB /* FixtureListViewController.swift in Sources */,
 				C2954FE71EBE1CE30039CEFA /* SecondViewController.swift in Sources */,
 				C2954FE31EBE1CE30039CEFA /* AppDelegate.swift in Sources */,
 				C2E941E61ECB3E3D0050E7BB /* ThirdViewController.swift in Sources */,
@@ -265,10 +341,10 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		C2954FE81EBE1CE30039CEFA /* Main.storyboard */ = {
+		C2375DFE1ECDA0E6007D6A09 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C2954FE91EBE1CE30039CEFA /* Base */,
+				C2375DFF1ECDA0E6007D6A09 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -381,6 +457,7 @@
 		};
 		C2954FFF1EBE1CE30039CEFA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 58270C4C19D25805AC7621F5 /* Pods-Plunketts2.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -399,6 +476,7 @@
 		};
 		C29550001EBE1CE30039CEFA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 997CF75A6ACD3FD53A43D83A /* Pods-Plunketts2.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
