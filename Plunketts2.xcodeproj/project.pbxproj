@@ -10,6 +10,7 @@
 		59D1F62C2D707F73CAD8777F /* libPods-Plunketts2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FDB50806E5EBA081343CC118 /* libPods-Plunketts2.a */; };
 		C2375E001ECDA0E6007D6A09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2375DFE1ECDA0E6007D6A09 /* Main.storyboard */; };
 		C26D5C501ECDB327006FF3F9 /* EventListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26D5C4F1ECDB327006FF3F9 /* EventListViewController.swift */; };
+		C26D5C551ECF47D3006FF3F9 /* InsertCalendarEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26D5C541ECF47D3006FF3F9 /* InsertCalendarEvent.swift */; };
 		C2954FE31EBE1CE30039CEFA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FE21EBE1CE30039CEFA /* AppDelegate.swift */; };
 		C2954FE51EBE1CE30039CEFA /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FE41EBE1CE30039CEFA /* FirstViewController.swift */; };
 		C2954FE71EBE1CE30039CEFA /* EventViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FE61EBE1CE30039CEFA /* EventViewController.swift */; };
@@ -39,6 +40,7 @@
 		997CF75A6ACD3FD53A43D83A /* Pods-Plunketts2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Plunketts2.release.xcconfig"; path = "Pods/Target Support Files/Pods-Plunketts2/Pods-Plunketts2.release.xcconfig"; sourceTree = "<group>"; };
 		C2375DFF1ECDA0E6007D6A09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C26D5C4F1ECDB327006FF3F9 /* EventListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventListViewController.swift; sourceTree = "<group>"; };
+		C26D5C541ECF47D3006FF3F9 /* InsertCalendarEvent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InsertCalendarEvent.swift; sourceTree = "<group>"; };
 		C2954FDF1EBE1CE30039CEFA /* Plunketts2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Plunketts2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2954FE21EBE1CE30039CEFA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C2954FE41EBE1CE30039CEFA /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				C26D5C4F1ECDB327006FF3F9 /* EventListViewController.swift */,
 				C2E941E91ECC48F20050E7BB /* FixtureListViewController.swift */,
 				C2E941E51ECB3E3D0050E7BB /* ThirdViewController.swift */,
+				C26D5C541ECF47D3006FF3F9 /* InsertCalendarEvent.swift */,
 				C2375DFE1ECDA0E6007D6A09 /* Main.storyboard */,
 				C2954FEB1EBE1CE30039CEFA /* Assets.xcassets */,
 				C2954FED1EBE1CE30039CEFA /* LaunchScreen.storyboard */,
@@ -320,6 +323,7 @@
 				C2E941EA1ECC48F20050E7BB /* FixtureListViewController.swift in Sources */,
 				C26D5C501ECDB327006FF3F9 /* EventListViewController.swift in Sources */,
 				C2954FE71EBE1CE30039CEFA /* EventViewController.swift in Sources */,
+				C26D5C551ECF47D3006FF3F9 /* InsertCalendarEvent.swift in Sources */,
 				C2954FE31EBE1CE30039CEFA /* AppDelegate.swift in Sources */,
 				C2E941E61ECB3E3D0050E7BB /* ThirdViewController.swift in Sources */,
 				C2954FE51EBE1CE30039CEFA /* FirstViewController.swift in Sources */,

@@ -11,23 +11,8 @@ import UIKit
 
 class FixtureListViewController: UITableViewController {
     
-    let clubNames = ["Dublin GAA Head Office", "Adamstown","AIB","Ballinteer St. Johns","Ballyboden St. Endas","Ballyboughal", "Ballyfermot De La Salle", "Ballymun Kickhams",
-                          "Bank of Ireland",
-                          "Beann Eadair",
-                          "Castleknock",
-                          "Civil Service Football",
-                          "Clanna Gael Fontenoy",
-                          "Clann Mhuire",
-                          "Clontarf",
-                          "Commercials",
-                          "Craobh Chiaráin",
-                        "Croí Ró Naofa",
-                        "Crumlin",
-                        "Cuala",
-                        "Erin Go Bragh",
-                        "Erins Isle",
-                        "Faughs",
-            "Fingallians","Fingal Ravens",
+    let clubNames = ["Dublin GAA Head Office", "Adamstown","AIB","Ballinteer St. Johns","Ballyboden St. Endas","Ballyboughal", "Ballyfermot De La Salle", "Ballymun Kickhams","Bank of Ireland","Beann Eadair","Castleknock","Civil Service Football","Clanna Gael Fontenoy","Clann Mhuire","Clontarf","Commercials","Craobh Chiarain","Croi Ro Naofa","Crumlin","Cuala","Erin Go Bragh","Erins Isle","Faughs",
+        "Fingallians","Fingal Ravens",
         "Garda",
         "Garristown",
         "Geraldine Morans",
@@ -40,10 +25,10 @@ class FixtureListViewController: UITableViewController {
         "Man-O-War",
         "Na Dubh Ghall",
         "Na Fianna",
-        "Na Gaeil Óga CLG",
-        "Naomh Barróg",
+        "Na Gaeil Oga CLG",
+        "Naomh Barrog",
         "Naomh Fionnbarra",
-        "Naomh Mearnóg",
+        "Naomh Mearnog",
         "Naomh Olaf",
         "O'Dwyers",
         "O'Tooles",
@@ -57,8 +42,8 @@ class FixtureListViewController: UITableViewController {
         "Rosmini Gaels",
         "Round Towers Clondalkin",
         "Round Towers Lusk",
-        "Samildánach",
-        "Scoil Uí Chonaill",
+        "Samildanach",
+        "Scoil Ui Chonaill",
         "Setanta",
         "Shankill",
         "Skerries Harps",
@@ -102,44 +87,77 @@ class FixtureListViewController: UITableViewController {
     
     var  teamName = ["Senior Hurlers", "Inter Hurlers", "Junior Hurlers","Senior Footballers", "Inter Footballers", "Junior A Footballers", "Junior B Footballers", "Minor Hurlers", "Minor Footballers", "U16 Hurlers","U16 Footballers", "U15 Hurlers","U15 Footballers","U14 Hurlers","U14 Footballers"]
 
-    
+    var fixtureDate: String = ""
+    var fixtureTime: String = ""
+
     override func viewDidLoad() {
         
         tableView.delegate = self
         //tableView.backgroundColor = UIColor.red
+        
+        //Convert Current date to String
+        let currentDate = Date()
+        let formatterDate = DateFormatter()
+        //formatterDate.dateStyle = .medium
+        formatterDate.timeStyle = .short
+        formatterDate.dateFormat = "E dd, MMM"
+        let result = formatterDate.string(from: currentDate)
+        fixtureDate = result
+        
+        //Convert Current Time to String
+        let formatterTime = DateFormatter()
+        formatterTime.dateFormat = "HH:mm"
+        let timeResult = formatterTime.string(from: currentDate)
+        fixtureTime = timeResult
+        
+        
         for team in teamName {
         let randomIndex = Int(arc4random_uniform(UInt32(clubNames.count)))
         let randomCompetitionIndex = Int(arc4random_uniform(UInt32(competition.count)))
         let fixture = Fixture()
-            fixture.create(teamName: team, awayTeam: clubNames[randomIndex], date: nil, time: nil, location: nil, competition: competition[randomCompetitionIndex])
+            fixture.create(teamName: team, awayTeam: clubNames[randomIndex], date: fixtureDate, time: fixtureTime, location: nil, competition: competition[randomCompetitionIndex])
         fixtures.append(fixture)
         }
     }
     
     
-    override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return fixtures.count
-    }
     
-    // colour of header bar
+    /*
+    //MARK: Header Names in Each Sections
+    override func tableView(_ tableView: UITableView, titleForHeaderInSection section: Int) -> String? {
+        let weeklyDivide = weeklyDivides[section]
+        return weeklyDivide.name
+    }
+    */
+    
+    //MARK: Header Properties
     /*override func tableView(_ tableView: UITableView, heightForHeaderInSection section: Int) -> CGFloat {
         let cellSpacing: CGFloat = 20
         return cellSpacing
     }*/
     
     
+    //MARK: Number of Rows in Each Section
+    override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return fixtures.count
+    }
+    
+    
+    
+    //MARK: Cell Properties
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
    
-        let cell = tableView.dequeueReusableCell(withIdentifier: "FixtureList") as! FixtureListCell
+        let cell = tableView.dequeueReusableCell(withIdentifier: "HomeFixtureList") as! FixtureListCell
         
         //cell.backgroundColor = UIColor.red
         cell.layoutMargins = UIEdgeInsets.zero
         cell.contentView.layoutMargins.bottom = 20
-        
         cell.teamName?.text = fixtures[indexPath.row].teamName
         cell.competition?.text = fixtures[indexPath.row].competition
         cell.opponents?.text = fixtures[indexPath.row].awayTeam
+        cell.fixtureDate?.text = fixtures[indexPath.row].date
+        cell.fixtureTime?.text = fixtures[indexPath.row].time
         
         
         let awayTeam = UIImage(named: fixtures[indexPath.row].awayTeam!)
@@ -147,6 +165,7 @@ class FixtureListViewController: UITableViewController {
         
         return cell
     }
+    
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         
@@ -167,7 +186,8 @@ class FixtureListCell: UITableViewCell {
     @IBOutlet weak var rightClub: UIImageView!
     @IBOutlet weak var teamName: UILabel!
     @IBOutlet weak var opponents: UILabel!
-    @IBOutlet weak var dateTime: UILabel!
+    @IBOutlet weak var fixtureDate: UILabel!
+    @IBOutlet weak var fixtureTime: UILabel!
     
 
     }
@@ -177,12 +197,12 @@ class Fixture {
 
     var teamName: String?
     var awayTeam: String?
-    var date:Date?
-    var time:Date?
+    var date:String?
+    var time:String?
     var location: String?
     var competition: String?
     
-    func create(teamName: String?, awayTeam: String?, date:Date?,time:Date?,location: String?, competition: String?){
+    func create(teamName: String?, awayTeam: String?, date:String?,time:String?,location: String?, competition: String?){
         self.teamName = teamName
         self.awayTeam = awayTeam
         self.date = date
