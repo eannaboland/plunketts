@@ -8,6 +8,7 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
         <capability name="Alignment constraints to the first baseline" minToolsVersion="6.0"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Navigation items with more than one left or right bar item" minToolsVersion="7.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -332,16 +333,6 @@
                             <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="KEH-eH-rhj">
                                 <rect key="frame" x="16" y="322" width="288" height="168"/>
                             </mapView>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IRP-HG-ads">
-                                <rect key="frame" x="92" y="498" width="142" height="25"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
-                                <state key="normal" title="Add to Calendar" image="Calendar-50">
-                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                </state>
-                                <connections>
-                                    <action selector="addCalenderButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="hSu-CK-Nac"/>
-                                </connections>
-                            </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Date" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rcB-2T-c8X">
                                 <rect key="frame" x="98" y="295" width="85" height="21"/>
                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="12"/>
@@ -365,13 +356,11 @@
                         <constraints>
                             <constraint firstItem="4ug-Mw-9AY" firstAttribute="top" secondItem="KEH-eH-rhj" secondAttribute="bottom" constant="78" id="1eK-QN-KrN"/>
                             <constraint firstItem="VFO-uU-zUw" firstAttribute="top" secondItem="iVy-HX-01I" secondAttribute="bottom" constant="6" id="1lK-4E-jKq"/>
-                            <constraint firstItem="IRP-HG-ads" firstAttribute="centerX" secondItem="tsR-hK-woN" secondAttribute="centerX" constant="3" id="5Rm-w8-g7i"/>
                             <constraint firstItem="iVy-HX-01I" firstAttribute="top" secondItem="Ia1-K6-d13" secondAttribute="bottom" constant="17" id="8TA-xu-R4d"/>
                             <constraint firstItem="lfG-R8-dN3" firstAttribute="baseline" secondItem="rcB-2T-c8X" secondAttribute="baseline" id="Ecg-ZA-7KM"/>
                             <constraint firstAttribute="trailingMargin" secondItem="Iz8-0q-Ikx" secondAttribute="trailing" id="EwD-J3-3bR"/>
                             <constraint firstItem="r0U-nC-IJB" firstAttribute="leading" secondItem="LWv-eo-zHF" secondAttribute="trailing" constant="24" id="FQ0-L1-Lgh"/>
                             <constraint firstItem="Iz8-0q-Ikx" firstAttribute="centerX" secondItem="3UW-59-tlp" secondAttribute="centerX" constant="1.5" id="Fpb-b0-jRB"/>
-                            <constraint firstItem="IRP-HG-ads" firstAttribute="top" secondItem="KEH-eH-rhj" secondAttribute="bottom" constant="8" id="G05-Wu-Dxw"/>
                             <constraint firstItem="LWv-eo-zHF" firstAttribute="leading" secondItem="tsR-hK-woN" secondAttribute="leadingMargin" constant="40" id="Gbb-RC-Zv0"/>
                             <constraint firstItem="KEH-eH-rhj" firstAttribute="centerX" secondItem="r0U-nC-IJB" secondAttribute="centerX" constant="-2" id="IMU-1f-frC"/>
                             <constraint firstItem="Iz8-0q-Ikx" firstAttribute="top" secondItem="3UW-59-tlp" secondAttribute="bottom" constant="8" symbolic="YES" id="Ill-xz-KoX"/>
@@ -402,16 +391,22 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="2E0-yK-Hwe">
-                        <barButtonItem key="rightBarButtonItem" image="Upload-50" id="xha-Q1-iTd">
-                            <connections>
-                                <action selector="shareButton:" destination="9pv-A4-QxB" id="cCG-kN-n08"/>
-                            </connections>
-                        </barButtonItem>
+                        <rightBarButtonItems>
+                            <barButtonItem image="Upload-50" id="xha-Q1-iTd">
+                                <connections>
+                                    <action selector="shareButton:" destination="9pv-A4-QxB" id="cCG-kN-n08"/>
+                                </connections>
+                            </barButtonItem>
+                            <barButtonItem image="Calendar-50" id="yKb-t1-jdm">
+                                <connections>
+                                    <action selector="addCalenderButton:" destination="9pv-A4-QxB" id="y3d-Fm-rAF"/>
+                                </connections>
+                            </barButtonItem>
+                        </rightBarButtonItems>
                     </navigationItem>
                     <connections>
                         <outlet property="awayTeamCrest" destination="3UW-59-tlp" id="MuS-lc-B3L"/>
                         <outlet property="awayTeamLabel" destination="Iz8-0q-Ikx" id="dlI-vB-3oq"/>
-                        <outlet property="calendarButton" destination="IRP-HG-ads" id="j1x-AJ-sCj"/>
                         <outlet property="competitionLabel" destination="VFO-uU-zUw" id="Bfv-ve-tS1"/>
                         <outlet property="fixtureDateLabel" destination="rcB-2T-c8X" id="7WI-IQ-LaN"/>
                         <outlet property="fixtureMapView" destination="KEH-eH-rhj" id="x1j-gJ-bFX"/>
@@ -422,7 +417,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2063" y="-680"/>
+            <point key="canvasLocation" x="2306" y="-680"/>
         </scene>
         <!--Event View Controller-->
         <scene sceneID="wg7-f3-ORb">
@@ -468,11 +463,14 @@
                     </view>
                     <toolbarItems/>
                     <navigationItem key="navigationItem" id="Lw8-37-OQk">
-                        <barButtonItem key="rightBarButtonItem" image="Upload-50" id="6x6-kj-rrx">
-                            <connections>
-                                <action selector="shareButton:" destination="8rJ-Kc-sve" id="RyQ-3K-1tj"/>
-                            </connections>
-                        </barButtonItem>
+                        <rightBarButtonItems>
+                            <barButtonItem image="Upload-50" id="6x6-kj-rrx">
+                                <connections>
+                                    <action selector="shareButton:" destination="8rJ-Kc-sve" id="RyQ-3K-1tj"/>
+                                </connections>
+                            </barButtonItem>
+                            <barButtonItem image="Calendar-50" id="2OJ-4y-vSZ"/>
+                        </rightBarButtonItems>
                     </navigationItem>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
@@ -483,7 +481,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4Nw-L8-lE0" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2563.125" y="0.0"/>
+            <point key="canvasLocation" x="2304" y="0.0"/>
         </scene>
         <!--Events-->
         <scene sceneID="Thl-8L-G9C">
@@ -665,7 +663,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="riw-sE-eeh" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1565.625" y="0.0"/>
+            <point key="canvasLocation" x="1530" y="0.0"/>
         </scene>
         <!--Fixtures-->
         <scene sceneID="7Sd-sU-VNI">
