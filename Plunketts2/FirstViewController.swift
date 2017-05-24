@@ -103,9 +103,25 @@ class FirstViewController: UIViewController, UITextFieldDelegate, UIImagePickerC
     }
     
     
+    
+    //MARK: Share the Fixture Details
+    @IBAction func shareButton(_ sender: Any) {
+        
+        //https://goo.gl/0f4mWS is the FB Run a Muck URL
+        let link = NSURL(string: "https://goo.gl/0f4mWS")
+        let vc = UIActivityViewController(activityItems: [competitionLabel.text!,link!], applicationActivities: nil)
+        self.present(vc, animated: true, completion: nil)
+        
+    }
 
     //MARK: Calendar Navigation. Check if authorised
         @IBAction func addCalenderButton(_ sender: Any) {
+            
+            //Convert the fixtureDate back into a Date Type so it can be used to add the calendar
+            let dateFormatter = DateFormatter()
+            dateFormatter.dateFormat = "E dd, MMM"
+            let fixtureDate = dateFormatter.date(from: (fixture?.date)!)
+            print (fixtureDate as Any)
             
             
             let reminder = EKEvent(eventStore: self.eventStore)

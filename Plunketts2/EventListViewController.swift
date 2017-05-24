@@ -12,20 +12,44 @@ import UIKit
 class EventListViewController: UITableViewController {
     
     //let imageNames = ["Darkness into Light","Mind Matter","New Years Ball"]
-    let eventNames = ["Darkness into Light","Mind Matter","New Years Ball"]
+    let eventNames = ["Darkness into Light","Mind Matter","New Years Ball","Run-A-Muck"]
     
     var events: [Event] = []
+    var eventDate: String = ""
+    var eventTime: String = ""
     
 
     override func viewDidLoad() {
         
+        // Date and Time properties
+            //Convert Current date to String
+            let currentDate = Date()
+            let formatterDate = DateFormatter()
+            //formatterDate.dateStyle = .medium
+            formatterDate.timeStyle = .short
+            formatterDate.dateFormat = "E dd, MMM"
+            let result = formatterDate.string(from: currentDate)
+            eventDate = result
+            
+            //Convert Current Time to String
+            let formatterTime = DateFormatter()
+            formatterTime.dateFormat = "HH:mm"
+            let timeResult = formatterTime.string(from: currentDate)
+            eventTime = timeResult
+            
         tableView.delegate = self
         //tableView.backgroundColor = UIColor.red
         for eventName in eventNames {
             //let randomEventIndex = Int(arc4random_uniform(UInt32(eventNames.count)))
             let event = Event()
-            event.create(eventName: eventName)
+            
+            event.create(eventName: eventName, eventDate: eventDate, eventTime: eventTime)
             events.append(event)
+            
+            
+            
+
+            
         }
     }
     
@@ -43,7 +67,8 @@ class EventListViewController: UITableViewController {
         cell.contentView.layoutMargins.bottom = 20
         
         cell.eventName?.text = events[indexPath.row].eventName
-        
+        cell.eventDate?.text = events[indexPath.row].eventDate
+        cell.eventTime?.text = events[indexPath.row].eventTime
         
         let eventImages = UIImage(named: events[indexPath.row].eventName!)
         cell.eventImage?.image = eventImages
@@ -75,6 +100,8 @@ class EventListCell: UITableViewCell {
     
     @IBOutlet weak var eventImage: UIImageView!
     @IBOutlet weak var eventName: UILabel!
+    @IBOutlet weak var eventTime: UILabel!
+    @IBOutlet weak var eventDate: UILabel!
     
 }
 
@@ -82,15 +109,16 @@ class EventListCell: UITableViewCell {
 class Event {
     
     var eventName: String?
+    var eventDate: String?
+    var eventTime: String?
     
-    func create(eventName: String?){
-        //, date:Date?,time:Date?,location:String?
+    func create(eventName: String?,eventDate:String?,eventTime:String?){
+        //,location:String?
         
         
         self.eventName = eventName
-
-        //self.date = date
-        //self.time = time
+        self.eventDate = eventDate
+        self.eventTime = eventTime
         //self.location = location
     }
 

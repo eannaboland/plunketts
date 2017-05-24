@@ -16,6 +16,7 @@ class EventViewController: UIViewController {
     //MARK: Properties
     @IBOutlet weak var eventsMap: MKMapView!
     @IBOutlet weak var videoview: UIWebView!
+    @IBOutlet weak var locationLabel: UILabel!
     
     
     override func viewDidLoad() {
@@ -50,6 +51,18 @@ class EventViewController: UIViewController {
         
     }
 
+    //Mark: Share the Event Details
+    @IBAction func shareButton(_ sender: Any) {
+        
+        //https://goo.gl/0f4mWS is the FB Run a Muck URL
+        let link = NSURL(string: "https://goo.gl/0f4mWS")
+        let vc = UIActivityViewController(activityItems: [locationLabel.text!, link!], applicationActivities: nil)
+        self.present(vc, animated: true, completion: nil)
+        
+    }
+    
+    
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.

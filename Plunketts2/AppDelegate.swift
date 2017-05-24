@@ -23,9 +23,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         Fabric.with([Twitter.self])
         
         UINavigationBar.appearance().barTintColor = UIColor(red: 41/255, green: 47/255, blue: 51/255, alpha: 1)
+        
+        
         //UINavigationBar.appearance().tintColor = UIColor.whiteColor()
         UINavigationBar.appearance().titleTextAttributes = [NSForegroundColorAttributeName:UIColor.white]
-//navigationItem.backBarButtonItem?.tintColor = UIColor.whiteColor()
+        //navigationItem.backBarButtonItem?.tintColor = UIColor.whiteColor()
         return true
     }
 

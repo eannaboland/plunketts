@@ -96,18 +96,19 @@ class FixtureListViewController: UITableViewController {
         //tableView.backgroundColor = UIColor.red
         
         //Convert Current date to String
-        let currentDate = Date()
+        let currentDate = NSDate()
         let formatterDate = DateFormatter()
         //formatterDate.dateStyle = .medium
         formatterDate.timeStyle = .short
         formatterDate.dateFormat = "E dd, MMM"
-        let result = formatterDate.string(from: currentDate)
+        let result = formatterDate.string(from: currentDate as Date)
         fixtureDate = result
+        print(fixtureDate)
         
         //Convert Current Time to String
         let formatterTime = DateFormatter()
         formatterTime.dateFormat = "HH:mm"
-        let timeResult = formatterTime.string(from: currentDate)
+        let timeResult = formatterTime.string(from: currentDate as Date)
         fixtureTime = timeResult
         
         
@@ -120,6 +121,8 @@ class FixtureListViewController: UITableViewController {
         }
     }
     
+    
+
     
     
     /*
