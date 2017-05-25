@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		59D1F62C2D707F73CAD8777F /* libPods-Plunketts2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FDB50806E5EBA081343CC118 /* libPods-Plunketts2.a */; };
 		C2375E001ECDA0E6007D6A09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2375DFE1ECDA0E6007D6A09 /* Main.storyboard */; };
 		C26D5C501ECDB327006FF3F9 /* EventListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26D5C4F1ECDB327006FF3F9 /* EventListViewController.swift */; };
 		C26D5C551ECF47D3006FF3F9 /* InsertCalendarEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26D5C541ECF47D3006FF3F9 /* InsertCalendarEvent.swift */; };
@@ -23,6 +22,7 @@
 		C2E941E41ECB3AB10050E7BB /* TwitterCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2E941E01ECB3AB10050E7BB /* TwitterCore.framework */; };
 		C2E941E61ECB3E3D0050E7BB /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E941E51ECB3E3D0050E7BB /* ThirdViewController.swift */; };
 		C2E941EA1ECC48F20050E7BB /* FixtureListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E941E91ECC48F20050E7BB /* FixtureListViewController.swift */; };
+		DF2679D1C9EEA59BA89B4736 /* Pods_Plunketts2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E818C4799050E68B4E535125 /* Pods_Plunketts2.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,7 +57,7 @@
 		C2E941E01ECB3AB10050E7BB /* TwitterCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterCore.framework; sourceTree = SOURCE_ROOT; };
 		C2E941E51ECB3E3D0050E7BB /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		C2E941E91ECC48F20050E7BB /* FixtureListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FixtureListViewController.swift; sourceTree = "<group>"; };
-		FDB50806E5EBA081343CC118 /* libPods-Plunketts2.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Plunketts2.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E818C4799050E68B4E535125 /* Pods_Plunketts2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Plunketts2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +68,7 @@
 				C2E941E11ECB3AB10050E7BB /* Fabric.framework in Frameworks */,
 				C2E941E41ECB3AB10050E7BB /* TwitterCore.framework in Frameworks */,
 				C2E941E21ECB3AB10050E7BB /* TwitterKit.framework in Frameworks */,
-				59D1F62C2D707F73CAD8777F /* libPods-Plunketts2.a in Frameworks */,
+				DF2679D1C9EEA59BA89B4736 /* Pods_Plunketts2.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,7 +94,7 @@
 		A3C1FE0F25631C57E75492BF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				FDB50806E5EBA081343CC118 /* libPods-Plunketts2.a */,
+				E818C4799050E68B4E535125 /* Pods_Plunketts2.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

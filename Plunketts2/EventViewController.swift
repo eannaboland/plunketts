@@ -8,6 +8,7 @@
 
 import UIKit
 import MapKit
+import Toaster
 
 class EventViewController: UIViewController {
 
@@ -58,6 +59,10 @@ class EventViewController: UIViewController {
         let link = NSURL(string: "https://goo.gl/0f4mWS")
         let vc = UIActivityViewController(activityItems: [locationLabel.text!, link!], applicationActivities: nil)
         self.present(vc, animated: true, completion: nil)
+        
+        
+        
+        //Toast(text: "Added to Calendar", delay: Delay.short, duration: Delay.long)
         
     }
     
