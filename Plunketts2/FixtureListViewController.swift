@@ -155,7 +155,7 @@ class FixtureListViewController: UITableViewController {
         
         //cell.backgroundColor = UIColor.red
         cell.layoutMargins = UIEdgeInsets.zero
-        cell.contentView.layoutMargins.bottom = 20
+        //cell.contentView.layoutMargins.bottom = 20
         cell.teamName?.text = fixtures[indexPath.row].teamName
         cell.competition?.text = fixtures[indexPath.row].competition
         cell.opponents?.text = fixtures[indexPath.row].awayTeam

@@ -62,7 +62,7 @@ class EventViewController: UIViewController {
         
         
         
-        //Toast(text: "Added to Calendar", delay: Delay.short, duration: Delay.long)
+
         
     }
     

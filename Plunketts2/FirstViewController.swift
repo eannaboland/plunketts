@@ -10,6 +10,7 @@ import UIKit
 import MapKit
 import GoogleMaps
 import EventKit
+import Toaster
 
 
 class FirstViewController: UIViewController, UITextFieldDelegate, UIImagePickerControllerDelegate,UINavigationControllerDelegate {
@@ -139,6 +140,13 @@ class FirstViewController: UIViewController, UITextFieldDelegate, UIImagePickerC
             }
             print("Saved Event")
             
+
+            
+            let toast = Toast(text: "Added to Calendar", delay: 1.0, duration: Delay.long)
+            toast.show()
+        
+            
+            //toast.cancel()
    
             /*
             // 1
