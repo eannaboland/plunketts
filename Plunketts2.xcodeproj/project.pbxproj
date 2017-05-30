@@ -19,6 +19,18 @@
 		C2954FEC1EBE1CE30039CEFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2954FEB1EBE1CE30039CEFA /* Assets.xcassets */; };
 		C2954FEF1EBE1CE30039CEFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2954FED1EBE1CE30039CEFA /* LaunchScreen.storyboard */; };
 		C2954FFA1EBE1CE30039CEFA /* Plunketts2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2954FF91EBE1CE30039CEFA /* Plunketts2Tests.swift */; };
+		C2CDC3531EDC7AFF00A7B51F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC3521EDC7AFF00A7B51F /* DetailViewController.swift */; };
+		C2CDC35B1EDC7BEC00A7B51F /* UITableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC3581EDC7BEC00A7B51F /* UITableView.swift */; };
+		C2CDC35C1EDC7BEC00A7B51F /* UIEdgeInsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC3591EDC7BEC00A7B51F /* UIEdgeInsets.swift */; };
+		C2CDC35D1EDC7BEC00A7B51F /* UICollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC35A1EDC7BEC00A7B51F /* UICollectionView.swift */; };
+		C2CDC35F1EDC7CB200A7B51F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC35E1EDC7CB200A7B51F /* ViewController.swift */; };
+		C2CDC3611EDC7E3D00A7B51F /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC3601EDC7E3D00A7B51F /* Event.swift */; };
+		C2CDC36D1EDC7EF400A7B51F /* DemoElongationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC3641EDC7EF400A7B51F /* DemoElongationCell.swift */; };
+		C2CDC36E1EDC7EF400A7B51F /* DemoElongationCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C2CDC3651EDC7EF400A7B51F /* DemoElongationCell.xib */; };
+		C2CDC36F1EDC7EF400A7B51F /* GridViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC3671EDC7EF400A7B51F /* GridViewCell.swift */; };
+		C2CDC3701EDC7EF400A7B51F /* GridViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C2CDC3681EDC7EF400A7B51F /* GridViewCell.xib */; };
+		C2CDC3711EDC7EF400A7B51F /* LoremSwiftum.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC36A1EDC7EF400A7B51F /* LoremSwiftum.swift */; };
+		C2CDC3721EDC7EF400A7B51F /* UIFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC36C1EDC7EF400A7B51F /* UIFont.swift */; };
 		C2E941E11ECB3AB10050E7BB /* Fabric.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2E941DD1ECB3AB10050E7BB /* Fabric.framework */; };
 		C2E941E21ECB3AB10050E7BB /* TwitterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2E941DE1ECB3AB10050E7BB /* TwitterKit.framework */; };
 		C2E941E31ECB3AB10050E7BB /* TwitterKitResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C2E941DF1ECB3AB10050E7BB /* TwitterKitResources.bundle */; };
@@ -58,6 +70,18 @@
 		C2954FF51EBE1CE30039CEFA /* Plunketts2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Plunketts2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2954FF91EBE1CE30039CEFA /* Plunketts2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plunketts2Tests.swift; sourceTree = "<group>"; };
 		C2954FFB1EBE1CE30039CEFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2CDC3521EDC7AFF00A7B51F /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		C2CDC3581EDC7BEC00A7B51F /* UITableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITableView.swift; sourceTree = "<group>"; };
+		C2CDC3591EDC7BEC00A7B51F /* UIEdgeInsets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIEdgeInsets.swift; sourceTree = "<group>"; };
+		C2CDC35A1EDC7BEC00A7B51F /* UICollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UICollectionView.swift; sourceTree = "<group>"; };
+		C2CDC35E1EDC7CB200A7B51F /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C2CDC3601EDC7E3D00A7B51F /* Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		C2CDC3641EDC7EF400A7B51F /* DemoElongationCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DemoElongationCell.swift; sourceTree = "<group>"; };
+		C2CDC3651EDC7EF400A7B51F /* DemoElongationCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DemoElongationCell.xib; sourceTree = "<group>"; };
+		C2CDC3671EDC7EF400A7B51F /* GridViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridViewCell.swift; sourceTree = "<group>"; };
+		C2CDC3681EDC7EF400A7B51F /* GridViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GridViewCell.xib; sourceTree = "<group>"; };
+		C2CDC36A1EDC7EF400A7B51F /* LoremSwiftum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoremSwiftum.swift; sourceTree = "<group>"; };
+		C2CDC36C1EDC7EF400A7B51F /* UIFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIFont.swift; sourceTree = "<group>"; };
 		C2E941DD1ECB3AB10050E7BB /* Fabric.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Fabric.framework; sourceTree = SOURCE_ROOT; };
 		C2E941DE1ECB3AB10050E7BB /* TwitterKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterKit.framework; sourceTree = SOURCE_ROOT; };
 		C2E941DF1ECB3AB10050E7BB /* TwitterKitResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = TwitterKitResources.bundle; path = TwitterKit.framework/Versions/A/Resources/TwitterKitResources.bundle; sourceTree = SOURCE_ROOT; };
@@ -140,6 +164,9 @@
 				C2954FE61EBE1CE30039CEFA /* EventViewController.swift */,
 				C26D5C4F1ECDB327006FF3F9 /* EventListViewController.swift */,
 				C2E941E51ECB3E3D0050E7BB /* TwitterViewController.swift */,
+				C2CDC3521EDC7AFF00A7B51F /* DetailViewController.swift */,
+				C2CDC35E1EDC7CB200A7B51F /* ViewController.swift */,
+				C2CDC3601EDC7E3D00A7B51F /* Event.swift */,
 				C26D5C541ECF47D3006FF3F9 /* InsertCalendarEvent.swift */,
 				C2375DFE1ECDA0E6007D6A09 /* Main.storyboard */,
 				C236FEDE1ED70C77008757F7 /* LoginViewController.swift */,
@@ -147,7 +174,11 @@
 				C236FEE21ED7238B008757F7 /* Swift+GIF.swift */,
 				C2954FED1EBE1CE30039CEFA /* LaunchScreen.storyboard */,
 				C236FEE01ED7234B008757F7 /* Clubhouse5secs.gif */,
+				C2CDC3731EDD8C0F00A7B51F /* Extensions */,
 				C2954FF01EBE1CE30039CEFA /* Info.plist */,
+				C2CDC3621EDC7EF400A7B51F /* Views */,
+				C2CDC3691EDC7EF400A7B51F /* Helpers */,
+				C2CDC36B1EDC7EF400A7B51F /* Extensions */,
 			);
 			path = Plunketts2;
 			sourceTree = "<group>";
@@ -159,6 +190,59 @@
 				C2954FFB1EBE1CE30039CEFA /* Info.plist */,
 			);
 			path = Plunketts2Tests;
+			sourceTree = "<group>";
+		};
+		C2CDC3621EDC7EF400A7B51F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				C2CDC3631EDC7EF400A7B51F /* DemoElongationCell */,
+				C2CDC3661EDC7EF400A7B51F /* GridViewCell */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		C2CDC3631EDC7EF400A7B51F /* DemoElongationCell */ = {
+			isa = PBXGroup;
+			children = (
+				C2CDC3641EDC7EF400A7B51F /* DemoElongationCell.swift */,
+				C2CDC3651EDC7EF400A7B51F /* DemoElongationCell.xib */,
+			);
+			path = DemoElongationCell;
+			sourceTree = "<group>";
+		};
+		C2CDC3661EDC7EF400A7B51F /* GridViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				C2CDC3671EDC7EF400A7B51F /* GridViewCell.swift */,
+				C2CDC3681EDC7EF400A7B51F /* GridViewCell.xib */,
+			);
+			path = GridViewCell;
+			sourceTree = "<group>";
+		};
+		C2CDC3691EDC7EF400A7B51F /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				C2CDC36A1EDC7EF400A7B51F /* LoremSwiftum.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		C2CDC36B1EDC7EF400A7B51F /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				C2CDC36C1EDC7EF400A7B51F /* UIFont.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		C2CDC3731EDD8C0F00A7B51F /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				C2CDC3581EDC7BEC00A7B51F /* UITableView.swift */,
+				C2CDC3591EDC7BEC00A7B51F /* UIEdgeInsets.swift */,
+				C2CDC35A1EDC7BEC00A7B51F /* UICollectionView.swift */,
+			);
+			name = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -255,6 +339,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C2E941E31ECB3AB10050E7BB /* TwitterKitResources.bundle in Resources */,
+				C2CDC36E1EDC7EF400A7B51F /* DemoElongationCell.xib in Resources */,
+				C2CDC3701EDC7EF400A7B51F /* GridViewCell.xib in Resources */,
 				C2954FEF1EBE1CE30039CEFA /* LaunchScreen.storyboard in Resources */,
 				C2954FEC1EBE1CE30039CEFA /* Assets.xcassets in Resources */,
 				C236FEE11ED7234B008757F7 /* Clubhouse5secs.gif in Resources */,
@@ -337,14 +423,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2CDC35F1EDC7CB200A7B51F /* ViewController.swift in Sources */,
+				C2CDC36D1EDC7EF400A7B51F /* DemoElongationCell.swift in Sources */,
 				C2E941EA1ECC48F20050E7BB /* FixtureListViewController.swift in Sources */,
 				C26D5C501ECDB327006FF3F9 /* EventListViewController.swift in Sources */,
+				C2CDC35D1EDC7BEC00A7B51F /* UICollectionView.swift in Sources */,
 				C2954FE71EBE1CE30039CEFA /* EventViewController.swift in Sources */,
+				C2CDC3611EDC7E3D00A7B51F /* Event.swift in Sources */,
+				C2CDC35C1EDC7BEC00A7B51F /* UIEdgeInsets.swift in Sources */,
+				C2CDC3721EDC7EF400A7B51F /* UIFont.swift in Sources */,
+				C2CDC36F1EDC7EF400A7B51F /* GridViewCell.swift in Sources */,
 				C26D5C551ECF47D3006FF3F9 /* InsertCalendarEvent.swift in Sources */,
 				C236FEE31ED7238B008757F7 /* Swift+GIF.swift in Sources */,
+				C2CDC35B1EDC7BEC00A7B51F /* UITableView.swift in Sources */,
 				C236FEDF1ED70C77008757F7 /* LoginViewController.swift in Sources */,
 				C2954FE31EBE1CE30039CEFA /* AppDelegate.swift in Sources */,
+				C2CDC3531EDC7AFF00A7B51F /* DetailViewController.swift in Sources */,
 				C2E941E61ECB3E3D0050E7BB /* TwitterViewController.swift in Sources */,
+				C2CDC3711EDC7EF400A7B51F /* LoremSwiftum.swift in Sources */,
 				C2954FE51EBE1CE30039CEFA /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

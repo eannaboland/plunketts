@@ -1,0 +1,1199 @@
+{"type":"FeatureCollection",
+"features":[
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.028852,52.786536]
+},
+"properties":
+{
+"markerid":"180",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Ballyea Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_180&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(180)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Ballyea Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.786536,-9.028852&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=180&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=180&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(180)&quot;&gt;Ballyea Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;p&gt;Ballyea Hurling Club&lt;/p&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"<p>Ballyea Hurling Club</p>",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.786536,-9.028852&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.916693,52.917759]
+},
+"properties":
+{
+"markerid":"181",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Ballyline GAA",
+"html_row":"&lt;tr id=&quot;marker_181&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(181)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Ballyline GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.917759,-8.916693&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=181&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=181&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(181)&quot;&gt;Ballyline GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;p&gt;Ballyline GAA&lt;/p&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"<p>Ballyline GAA</p>",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.917759,-8.916693&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.154862,53.113953]
+},
+"properties":
+{
+"markerid":"182",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Ballyvaughan / Fanore GAA",
+"html_row":"&lt;tr id=&quot;marker_182&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(182)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Ballyvaughan / Fanore GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=53.113953,-9.154862&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=182&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=182&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(182)&quot;&gt;Ballyvaughan / Fanore GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;p&gt;Ballyvaughan / Fanore GAA&lt;/p&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"<p>Ballyvaughan / Fanore GAA</p>",
+"dlink":"http://maps.google.co.uk/maps?daddr=53.113953,-9.154862&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.020741,52.839899]
+},
+"properties":
+{
+"markerid":"183",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"The Banner GAA",
+"html_row":"&lt;tr id=&quot;marker_183&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(183)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;The Banner GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.839899,-9.020741&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=183&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=183&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(183)&quot;&gt;The Banner GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;p&gt;The Banner GAA&lt;/p&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"<p>The Banner GAA</p>",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.839899,-9.020741&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.551515,52.894794]
+},
+"properties":
+{
+"markerid":"184",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Bodyke Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_184&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(184)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Bodyke Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.894794,-8.551515&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=184&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=184&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(184)&quot;&gt;Bodyke Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;p&gt;Bodyke Hurling Club&lt;/p&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"<p>Bodyke Hurling Club</p>",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.894794,-8.551515&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.634245,52.803566]
+},
+"properties":
+{
+"markerid":"185",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Broadford Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_185&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(185)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Broadford Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.803566,-8.634245&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=185&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=185&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(185)&quot;&gt;Broadford Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;p&gt;Broadford Hurling Club&lt;/p&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"<p>Broadford Hurling Club</p>",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.803566,-8.634245&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.973770,52.821567]
+},
+"properties":
+{
+"markerid":"186",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Clare Abbey GAA",
+"html_row":"&lt;tr id=&quot;marker_186&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(186)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Clare Abbey GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.821567,-8.973770&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=186&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=186&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(186)&quot;&gt;Clare Abbey GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;p&gt;Clare Abbey GAA&lt;/p&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"16",
+"address":"",
+"text":"<p>Clare Abbey GAA</p>",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.821567,-8.973770&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.971463,52.816335]
+},
+"properties":
+{
+"markerid":"187",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Clarecastle GAA",
+"html_row":"&lt;tr id=&quot;marker_187&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(187)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Clarecastle GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.816335,-8.971463&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=187&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=187&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(187)&quot;&gt;Clarecastle GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;p&gt;Clarecastle GAA&lt;/p&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"<p>Clarecastle GAA</p>",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.816335,-8.971463&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.402602,52.856269]
+},
+"properties":
+{
+"markerid":"188",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Clonboney GAA",
+"html_row":"&lt;tr id=&quot;marker_188&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(188)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Clonboney GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.856269,-9.402602&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=188&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=188&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(188)&quot;&gt;Clonboney GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;Clonboney GAA&lt;br /&gt;Ennistymon Road, Miltown Malbay, Co. Clare&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"Clonboney GAA<br />Ennistymon Road, Miltown Malbay, Co. Clare",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.856269,-9.402602&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.063549,52.720555]
+},
+"properties":
+{
+"markerid":"189",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Clondegad GAA",
+"html_row":"&lt;tr id=&quot;marker_189&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(189)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Clondegad GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.720555,-9.063549&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=189&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=189&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(189)&quot;&gt;Clondegad GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.720555,-9.063549&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.557878,52.719853]
+},
+"properties":
+{
+"markerid":"190",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Clonlara Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_190&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(190)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Clonlara Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.719853,-8.557878&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=190&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=190&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(190)&quot;&gt;Clonlara Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.719853,-8.557878&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.855581,52.836998]
+},
+"properties":
+{
+"markerid":"191",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Clooney Quin GAA",
+"html_row":"&lt;tr id=&quot;marker_191&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(191)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Clooney Quin GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.836998,-8.855581&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=191&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=191&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(191)&quot;&gt;Clooney Quin GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.836998,-8.855581&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.221456,52.666754]
+},
+"properties":
+{
+"markerid":"192",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Coolmeen GAA",
+"html_row":"&lt;tr id=&quot;marker_192&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(192)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Coolmeen GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.666754,-9.221456&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=192&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=192&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(192)&quot;&gt;Coolmeen GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.666754,-9.221456&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.426152,52.696556]
+},
+"properties":
+{
+"markerid":"193",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Cooraclare GAA",
+"html_row":"&lt;tr id=&quot;marker_193&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(193)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Cooraclare GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.696556,-9.426152&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=193&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=193&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(193)&quot;&gt;Cooraclare GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.696556,-9.426152&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.067417,52.945215]
+},
+"properties":
+{
+"markerid":"194",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Corofin GAA",
+"html_row":"&lt;tr id=&quot;marker_194&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(194)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Corofin GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.945215,-9.067417&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=194&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=194&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(194)&quot;&gt;Corofin GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.945215,-9.067417&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.760835,52.695542]
+},
+"properties":
+{
+"markerid":"195",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Cratloe GAA",
+"html_row":"&lt;tr id=&quot;marker_195&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(195)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Cratloe GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.695542,-8.760835&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=195&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=195&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(195)&quot;&gt;Cratloe GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.695542,-8.760835&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.897585,52.936095]
+},
+"properties":
+{
+"markerid":"196",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Crusheen GAA",
+"html_row":"&lt;tr id=&quot;marker_196&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(196)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Crusheen GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.936095,-8.897585&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=196&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=196&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(196)&quot;&gt;Crusheen GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.936095,-8.897585&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.977493,52.846385]
+},
+"properties":
+{
+"markerid":"197",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Cusack Park (Clare County Ground)",
+"html_row":"&lt;tr id=&quot;marker_197&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(197)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Cusack Park (Clare County Ground)&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.846385,-8.977493&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=197&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=197&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(197)&quot;&gt;Cusack Park (Clare County Ground)&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.846385,-8.977493&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.546701,52.726202]
+},
+"properties":
+{
+"markerid":"198",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Doonbeg GFC",
+"html_row":"&lt;tr id=&quot;marker_198&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(198)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Doonbeg GFC&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.726202,-9.546701&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=198&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=198&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(198)&quot;&gt;Doonbeg GFC&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.726202,-9.546701&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.991242,52.831917]
+},
+"properties":
+{
+"markerid":"199",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Eire Og GAA",
+"html_row":"&lt;tr id=&quot;marker_199&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(199)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Eire Og GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.831917,-8.991242&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=199&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=199&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(199)&quot;&gt;Eire Og GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.831917,-8.991242&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.320258,52.935623]
+},
+"properties":
+{
+"markerid":"200",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Ennistymon GAA",
+"html_row":"&lt;tr id=&quot;marker_200&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(200)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Ennistymon GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.935623,-9.320258&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=200&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=200&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(200)&quot;&gt;Ennistymon GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.935623,-9.320258&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.320408,52.935604]
+},
+"properties":
+{
+"markerid":"201",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Ennistymon Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_201&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(201)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Ennistymon Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.935604,-9.320408&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=201&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=201&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(201)&quot;&gt;Ennistymon Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.935604,-9.320408&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.651068,52.923348]
+},
+"properties":
+{
+"markerid":"202",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Feakle GAA",
+"html_row":"&lt;tr id=&quot;marker_202&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(202)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Feakle GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.923348,-8.651068&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=202&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=202&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(202)&quot;&gt;Feakle GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.923348,-8.651068&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.180225,52.877704]
+},
+"properties":
+{
+"markerid":"203",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Inagh-Kilnamona GAA",
+"html_row":"&lt;tr id=&quot;marker_203&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(203)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Inagh-Kilnamona GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.877704,-9.180225&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=203&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=203&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(203)&quot;&gt;Inagh-Kilnamona GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.877704,-9.180225&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.110477,52.666331]
+},
+"properties":
+{
+"markerid":"204",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Kildysert GAA",
+"html_row":"&lt;tr id=&quot;marker_204&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(204)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Kildysert GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.666331,-9.110477&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=204&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=204&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(204)&quot;&gt;Kildysert GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.666331,-9.110477&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.234615,52.994676]
+},
+"properties":
+{
+"markerid":"205",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Kilfenora GAA",
+"html_row":"&lt;tr id=&quot;marker_205&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(205)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Kilfenora GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.994676,-9.234615&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=205&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=205&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(205)&quot;&gt;Kilfenora GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.994676,-9.234615&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.640321,52.678652]
+},
+"properties":
+{
+"markerid":"206",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Kilkee Bealatha Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_206&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(206)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Kilkee Bealatha Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.678652,-9.640321&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=206&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=206&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(206)&quot;&gt;Kilkee Bealatha Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.678652,-9.640321&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.755224,52.803070]
+},
+"properties":
+{
+"markerid":"207",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Kilkishen GAA (Defunct)",
+"html_row":"&lt;tr id=&quot;marker_207&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(207)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Kilkishen GAA (Defunct)&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.803070,-8.755224&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=207&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=207&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(207)&quot;&gt;Kilkishen GAA (Defunct)&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.803070,-8.755224&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.734388,52.995012]
+},
+"properties":
+{
+"markerid":"208",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Killanena Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_208&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(208)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Killanena Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.995012,-8.734388&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=208&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=208&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(208)&quot;&gt;Killanena Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.995012,-8.734388&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.390725,52.626294]
+},
+"properties":
+{
+"markerid":"209",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Killimer",
+"html_row":"&lt;tr id=&quot;marker_209&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(209)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Killimer&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.626294,-9.390725&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=209&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=209&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(209)&quot;&gt;Killimer&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.626294,-9.390725&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.095376,52.813881]
+},
+"properties":
+{
+"markerid":"210",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Kilmaley Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_210&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(210)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Kilmaley Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.813881,-9.095376&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=210&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=210&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(210)&quot;&gt;Kilmaley Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.813881,-9.095376&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.317318,52.722713]
+},
+"properties":
+{
+"markerid":"211",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Kilmihil",
+"html_row":"&lt;tr id=&quot;marker_211&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(211)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Kilmihil&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.722713,-9.317318&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=211&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=211&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(211)&quot;&gt;Kilmihil&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.722713,-9.317318&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.454508,52.814623]
+},
+"properties":
+{
+"markerid":"212",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Kilmurray Ibrickane GAA",
+"html_row":"&lt;tr id=&quot;marker_212&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(212)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Kilmurray Ibrickane GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.814623,-9.454508&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=212&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=212&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(212)&quot;&gt;Kilmurray Ibrickane GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.814623,-9.454508&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.061832,52.870179]
+},
+"properties":
+{
+"markerid":"213",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Kilnamona Hurling Club (Merged with Inagh)",
+"html_row":"&lt;tr id=&quot;marker_213&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(213)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Kilnamona Hurling Club (Merged with Inagh)&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.870179,-9.061832&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=213&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=213&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(213)&quot;&gt;Kilnamona Hurling Club (Merged with Inagh)&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;Kilnamona Hurling Club&lt;br /&gt;The present club was formed in 2008 when Inagh GAA and Kilnamona GAA merged to form one club.&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"15",
+"address":"",
+"text":"Kilnamona Hurling Club<br />The present club was formed in 2008 when Inagh GAA and Kilnamona GAA merged to form one club.",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.870179,-9.061832&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.472650,52.629293]
+},
+"properties":
+{
+"markerid":"214",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Kilrush Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_214&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(214)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Kilrush Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.629293,-9.472650&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=214&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=214&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(214)&quot;&gt;Kilrush Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.629293,-9.472650&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.472522,52.629312]
+},
+"properties":
+{
+"markerid":"215",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Kilrush Shamrocks GAA",
+"html_row":"&lt;tr id=&quot;marker_215&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(215)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Kilrush Shamrocks GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.629312,-9.472522&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=215&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=215&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(215)&quot;&gt;Kilrush Shamrocks GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.629312,-9.472522&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.343218,52.936800]
+},
+"properties":
+{
+"markerid":"216",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Lahinch GAA",
+"html_row":"&lt;tr id=&quot;marker_216&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(216)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Lahinch GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.936800,-9.343218&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=216&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=216&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(216)&quot;&gt;Lahinch GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.936800,-9.343218&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.447212,52.938992]
+},
+"properties":
+{
+"markerid":"217",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Liscannor GFC",
+"html_row":"&lt;tr id=&quot;marker_217&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(217)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Liscannor GFC&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.938992,-9.447212&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=217&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=217&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(217)&quot;&gt;Liscannor GFC&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.938992,-9.447212&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.174571,52.739429]
+},
+"properties":
+{
+"markerid":"218",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Lissycasey GAA",
+"html_row":"&lt;tr id=&quot;marker_218&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(218)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Lissycasey GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.739429,-9.174571&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=218&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=218&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(218)&quot;&gt;Lissycasey GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.739429,-9.174571&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.651787,52.699332]
+},
+"properties":
+{
+"markerid":"219",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Meelick GAA",
+"html_row":"&lt;tr id=&quot;marker_219&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(219)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Meelick GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.699332,-8.651787&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=219&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=219&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(219)&quot;&gt;Meelick GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.699332,-8.651787&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.073881,53.080309]
+},
+"properties":
+{
+"markerid":"220",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Michael Cusacks GAA",
+"html_row":"&lt;tr id=&quot;marker_220&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(220)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Michael Cusacks GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=53.080309,-9.073881&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=220&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=220&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(220)&quot;&gt;Michael Cusacks GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=53.080309,-9.073881&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.336953,52.906425]
+},
+"properties":
+{
+"markerid":"221",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Moy GAA",
+"html_row":"&lt;tr id=&quot;marker_221&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(221)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Moy GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.906425,-9.336953&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=221&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=221&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(221)&quot;&gt;Moy GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;Moy GAA&lt;br /&gt;Maigh (Moy) &lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"15",
+"address":"",
+"text":"Moy GAA<br />Maigh (Moy) ",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.906425,-9.336953&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.413652,52.798052]
+},
+"properties":
+{
+"markerid":"222",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Mullagh",
+"html_row":"&lt;tr id=&quot;marker_222&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(222)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Mullagh&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.798052,-9.413652&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=222&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=222&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(222)&quot;&gt;Mullagh&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;Mullagh&lt;br /&gt;Near Mullagh National School&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"16",
+"address":"",
+"text":"Mullagh<br />Near Mullagh National School",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.798052,-9.413652&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.778851,52.596632]
+},
+"properties":
+{
+"markerid":"223",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Naomh Eoin GAA",
+"html_row":"&lt;tr id=&quot;marker_223&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(223)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Naomh Eoin GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.596632,-9.778851&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=223&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=223&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(223)&quot;&gt;Naomh Eoin GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.596632,-9.778851&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.888669,52.760392]
+},
+"properties":
+{
+"markerid":"224",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Newmarket-on-Fergus Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_224&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(224)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Newmarket-on-Fergus Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.760392,-8.888669&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=224&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=224&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(224)&quot;&gt;Newmarket-on-Fergus Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.760392,-8.888669&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.671893,52.839795]
+},
+"properties":
+{
+"markerid":"225",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"O'Callaghan's Mills GAA",
+"html_row":"&lt;tr id=&quot;marker_225&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(225)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;O'Callaghan's Mills GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.839795,-8.671893&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=225&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=225&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(225)&quot;&gt;O'Callaghan's Mills GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.839795,-8.671893&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.645771,52.622103]
+},
+"properties":
+{
+"markerid":"226",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"O'Currys GAA",
+"html_row":"&lt;tr id=&quot;marker_226&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(226)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;O'Currys GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.622103,-9.645771&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=226&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=226&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(226)&quot;&gt;O'Currys GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.622103,-9.645771&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.457885,52.871610]
+},
+"properties":
+{
+"markerid":"227",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Ogonnelloe Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_227&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(227)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Ogonnelloe Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.871610,-8.457885&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=227&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=227&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(227)&quot;&gt;Ogonnelloe Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.871610,-8.457885&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.602901,52.680444]
+},
+"properties":
+{
+"markerid":"228",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Parteen GAA",
+"html_row":"&lt;tr id=&quot;marker_228&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(228)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Parteen GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.680444,-8.602901&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=228&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=228&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(228)&quot;&gt;Parteen GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.680444,-8.602901&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.959501,52.857497]
+},
+"properties":
+{
+"markerid":"229",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"St Josephs Doora-Barefield (Roslevan)",
+"html_row":"&lt;tr id=&quot;marker_229&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(229)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;St Josephs Doora-Barefield (Roslevan)&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.857497,-8.959501&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=229&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=229&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(229)&quot;&gt;St Josephs Doora-Barefield (Roslevan)&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.857497,-8.959501&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.987374,52.933075]
+},
+"properties":
+{
+"markerid":"230",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Ruan Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_230&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(230)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Ruan Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.933075,-8.987374&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=230&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=230&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(230)&quot;&gt;Ruan Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.933075,-8.987374&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.532718,52.912758]
+},
+"properties":
+{
+"markerid":"231",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Scarriff Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_231&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(231)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Scarriff Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.912758,-8.532718&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=231&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=231&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(231)&quot;&gt;Scarriff Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.912758,-8.532718&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.247345,52.638220]
+},
+"properties":
+{
+"markerid":"232",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Shannon Gaels GAA",
+"html_row":"&lt;tr id=&quot;marker_232&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(232)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Shannon Gaels GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.638220,-9.247345&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=232&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=232&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(232)&quot;&gt;Shannon Gaels GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.638220,-9.247345&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.778205,52.744333]
+},
+"properties":
+{
+"markerid":"233",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Sixmilebridge Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_233&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(233)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Sixmilebridge Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.744333,-8.778205&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=233&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=233&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(233)&quot;&gt;Sixmilebridge Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.744333,-8.778205&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.445836,52.803572]
+},
+"properties":
+{
+"markerid":"234",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Smith O'Briens",
+"html_row":"&lt;tr id=&quot;marker_234&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(234)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Smith O'Briens&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.803572,-8.445836&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=234&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=234&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(234)&quot;&gt;Smith O'Briens&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.803572,-8.445836&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.291773,53.026903]
+},
+"properties":
+{
+"markerid":"235",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"St Breckans GAA",
+"html_row":"&lt;tr id=&quot;marker_235&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(235)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;St Breckans GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=53.026903,-9.291773&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=235&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=235&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(235)&quot;&gt;St Breckans GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=53.026903,-9.291773&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.905599,52.842530]
+},
+"properties":
+{
+"markerid":"236",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"St Joseph's Doora-Barefield (Gurteen)",
+"html_row":"&lt;tr id=&quot;marker_236&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(236)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;St Joseph's Doora-Barefield (Gurteen)&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.842530,-8.905599&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=236&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=236&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(236)&quot;&gt;St Joseph's Doora-Barefield (Gurteen)&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;St Josephs Doora-Barefield (Gurteen)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"St Josephs Doora-Barefield (Gurteen)",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.842530,-8.905599&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.408191,52.852729]
+},
+"properties":
+{
+"markerid":"237",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"St Josephs Miltown Malbay GAA",
+"html_row":"&lt;tr id=&quot;marker_237&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(237)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;St Josephs Miltown Malbay GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.852729,-9.408191&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=237&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=237&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(237)&quot;&gt;St Josephs Miltown Malbay GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.852729,-9.408191&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-9.640074,52.678568]
+},
+"properties":
+{
+"markerid":"238",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"St Senans Kilkee GAA",
+"html_row":"&lt;tr id=&quot;marker_238&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(238)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;St Senans Kilkee GAA&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.678568,-9.640074&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=238&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=238&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(238)&quot;&gt;St Senans Kilkee GAA&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"15",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.678568,-9.640074&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.909461,53.015345]
+},
+"properties":
+{
+"markerid":"239",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Tubber Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_239&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(239)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Tubber Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=53.015345,-8.909461&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=239&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=239&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(239)&quot;&gt;Tubber Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=53.015345,-8.909461&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.744897,52.861710]
+},
+"properties":
+{
+"markerid":"240",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Tulla Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_240&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(240)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Tulla Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.861710,-8.744897&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=240&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=240&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(240)&quot;&gt;Tulla Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;Tulla Hurling Clubb&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"Tulla Hurling Clubb",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.861710,-8.744897&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.374184,52.951401]
+},
+"properties":
+{
+"markerid":"241",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Whitegate Hurling Club",
+"html_row":"&lt;tr id=&quot;marker_241&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(241)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Whitegate Hurling Club&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.951401,-8.374184&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=241&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=241&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(241)&quot;&gt;Whitegate Hurling Club&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"18",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.951401,-8.374184&t=m&layer=1&doflg=ptk&om=1"}},
+{
+"type":"Feature",
+"geometry":
+{
+"type":"Point",
+"coordinates":[-8.868853,52.704007]
+},
+"properties":
+{
+"markerid":"242",
+"layers":["5"],
+"requested_layer":["5"],
+"markername":"Wolfe Tones na Sionna",
+"html_row":"&lt;tr id=&quot;marker_242&quot;&gt;&lt;td class=&quot;lmm-listmarkers-icon&quot;&gt;&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(242)&quot;&gt;&lt;img style=&quot;border-radius:0;box-shadow:none;&quot; alt=&quot;marker icon&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/uploads/leaflet-maps-marker-icons/quadrifoglio.png&quot; title=&quot;Wolfe Tones na Sionna&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;lmm-listmarkers-popuptext&quot;&gt;&lt;div class=&quot;lmm-listmarkers-panel-icons&quot;&gt;&lt;a href=&quot;https://maps.google.co.uk/maps?daddr=52.704007,-8.868853&amp;amp;t=m&amp;amp;layer=1&amp;amp;doflg=ptk&amp;amp;om=1&quot; target=&quot;_blank&quot; title=&quot;Get directions&quot;&gt;&lt;img alt=&quot;Get directions&quot; src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-car.png&quot; width=&quot;14&quot; height=&quot;14&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?marker=242&quot; style=&quot;text-decoration:none;&quot; title=&quot;Open standalone map in fullscreen mode&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-fullscreen.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Open standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/leaflet-qr.php?marker=242&quot; target=&quot;_blank&quot; title=&quot;Create QR code image for standalone map in fullscreen mode&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.gaapitchlocator.net/wp-content/plugins/leaflet-maps-marker-pro/inc/img/icon-qr-code.png&quot; width=&quot;14&quot; height=&quot;14&quot; alt=&quot;Create QR code image for standalone map in fullscreen mode&quot; class=&quot;lmm-panel-api-images&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;lmm-listmarkers-markername&quot;&gt;&lt;a title=&quot;show marker on map&quot; href=&quot;javascript:void(0);&quot; onclick=&quot;javascript:listmarkers_action_{uid}(242)&quot;&gt;Wolfe Tones na Sionna&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;lmm-listmarkers-popuptext-only&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;",
+"icon":"quadrifoglio.png",
+"zoom":"17",
+"address":"",
+"text":"",
+"dlink":"http://maps.google.co.uk/maps?daddr=52.704007,-8.868853&t=m&layer=1&doflg=ptk&om=1"}}]}

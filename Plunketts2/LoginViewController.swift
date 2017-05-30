@@ -23,10 +23,10 @@ class LoginViewController: UIViewController   {
         
         loginGIF.loadGif(name: "Clubhouse5secs")
 
-        
-
 
             }
+    
+    
     
     func loginButtonDidLogOut(_ loginButton: FBSDKLoginButton!) {
         print("Did log out of Facebook")

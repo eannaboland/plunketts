@@ -143,6 +143,9 @@ class FirstViewController: UIViewController, UITextFieldDelegate, UIImagePickerC
 
             
             let toast = Toast(text: "Added to Calendar", delay: 1.0, duration: Delay.long)
+            ToastView.appearance().cornerRadius = 0
+            ToastView.appearance().bottomOffsetPortrait = 0
+            //ToastView.appearance().width
             toast.show()
         
             

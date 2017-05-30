@@ -9,8 +9,9 @@
 import UIKit
 import MapKit
 import Toaster
+import ElongationPreview
 
-class EventViewController: UIViewController {
+class EventViewController: ElongationDetailViewController {
 
     var event: Event?
     
@@ -59,9 +60,7 @@ class EventViewController: UIViewController {
         let link = NSURL(string: "https://goo.gl/0f4mWS")
         let vc = UIActivityViewController(activityItems: [locationLabel.text!, link!], applicationActivities: nil)
         self.present(vc, animated: true, completion: nil)
-        
-        
-        
+ 
 
         
     }

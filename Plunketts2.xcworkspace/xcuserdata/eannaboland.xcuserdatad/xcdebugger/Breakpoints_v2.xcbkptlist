@@ -2,4 +2,54 @@
 <Bucket
    type = "0"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/Animations/RotationAnimation/RAMRotationAnimation.swift"
+            timestampString = "517759162.243531"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "RAMRightRotationAnimation"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RAMAnimatedTabBarController.RAMRightRotationAnimation.init () -&gt; RAMAnimatedTabBarController.RAMRightRotationAnimation"
+                  moduleName = "RAMAnimatedTabBarController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eannaboland/DevApps/Plunketts2/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/Animations/RotationAnimation/RAMRotationAnimation.swift"
+                  timestampString = "517871417.003732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RAMAnimatedTabBarController.RAMRightRotationAnimation.__allocating_init () -&gt; RAMAnimatedTabBarController.RAMRightRotationAnimation"
+                  moduleName = "RAMAnimatedTabBarController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eannaboland/DevApps/Plunketts2/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/Animations/RotationAnimation/RAMRotationAnimation.swift"
+                  timestampString = "517871417.006235"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

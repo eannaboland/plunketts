@@ -8,8 +8,9 @@
 
 import Foundation
 import UIKit
+import ElongationPreview
 
-class EventListViewController: UITableViewController {
+class EventListViewController: ElongationViewController {
     
     //let imageNames = ["Darkness into Light","Mind Matter","New Years Ball"]
     let eventNames = ["Darkness into Light","Mind Matter","New Years Ball","Run-A-Muck"]
@@ -82,21 +83,29 @@ class EventListViewController: UITableViewController {
     }
     
     
-    
+    /*
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         
         let eventCell = events[indexPath.row]
         let storyboard = UIStoryboard(name: "Main", bundle: nil)
         let controller = storyboard.instantiateViewController(withIdentifier: "EventViewController") as! EventViewController
         controller.event = eventCell
-        self.navigationController?.pushViewController(controller, animated: true)
-        
+        //self.navigationController?.pushViewController(controller, animated: true)
+        expand(viewController: controller)
+    }
+     */
+    
+    override func openDetailView(for indexPath: IndexPath) {
+        let eventCell = events[indexPath.row]
+
+        let controller = DetailViewController(style: UITableViewStyle.grouped)
+        expand(viewController: controller)
     }
 
 }
 
 
-class EventListCell: UITableViewCell {
+class EventListCell: ElongationCell {
     
     @IBOutlet weak var eventImage: UIImageView!
     @IBOutlet weak var eventName: UILabel!

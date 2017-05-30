@@ -1,6 +1,0 @@
-source 'https://github.com/CocoaPods/Specs.git'
-target 'Plunketts2' do
-pod 'GoogleMaps'
-pod 'GooglePlaces'
-pod 'Toaster', '~> 2.0'
-end

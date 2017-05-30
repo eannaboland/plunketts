@@ -9,4 +9,6 @@ pod 'FBSDKShareKit'
 pod 'FBSDKLoginKit'
 pod 'Alamofire', '~> 4.4'
 pod 'SwiftyJSON'
+pod 'ElongationPreview'
+pod 'RAMAnimatedTabBarController', "~> 2.0.13"
 end

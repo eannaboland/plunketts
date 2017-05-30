@@ -1,0 +1,6 @@
+framework module Pods_Plunketts2 {
+  umbrella header "Pods-Plunketts2-umbrella.h"
+
+  export *
+  module * { export * }
+}
