@@ -31,6 +31,7 @@
 		C2CDC3701EDC7EF400A7B51F /* GridViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C2CDC3681EDC7EF400A7B51F /* GridViewCell.xib */; };
 		C2CDC3711EDC7EF400A7B51F /* LoremSwiftum.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC36A1EDC7EF400A7B51F /* LoremSwiftum.swift */; };
 		C2CDC3721EDC7EF400A7B51F /* UIFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC36C1EDC7EF400A7B51F /* UIFont.swift */; };
+		C2CDC3791EDECFDA00A7B51F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C2CDC3781EDECFDA00A7B51F /* GoogleService-Info.plist */; };
 		C2E941E11ECB3AB10050E7BB /* Fabric.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2E941DD1ECB3AB10050E7BB /* Fabric.framework */; };
 		C2E941E21ECB3AB10050E7BB /* TwitterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2E941DE1ECB3AB10050E7BB /* TwitterKit.framework */; };
 		C2E941E31ECB3AB10050E7BB /* TwitterKitResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C2E941DF1ECB3AB10050E7BB /* TwitterKitResources.bundle */; };
@@ -82,6 +83,7 @@
 		C2CDC3681EDC7EF400A7B51F /* GridViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GridViewCell.xib; sourceTree = "<group>"; };
 		C2CDC36A1EDC7EF400A7B51F /* LoremSwiftum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoremSwiftum.swift; sourceTree = "<group>"; };
 		C2CDC36C1EDC7EF400A7B51F /* UIFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIFont.swift; sourceTree = "<group>"; };
+		C2CDC3781EDECFDA00A7B51F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		C2E941DD1ECB3AB10050E7BB /* Fabric.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Fabric.framework; sourceTree = SOURCE_ROOT; };
 		C2E941DE1ECB3AB10050E7BB /* TwitterKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterKit.framework; sourceTree = SOURCE_ROOT; };
 		C2E941DF1ECB3AB10050E7BB /* TwitterKitResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = TwitterKitResources.bundle; path = TwitterKit.framework/Versions/A/Resources/TwitterKitResources.bundle; sourceTree = SOURCE_ROOT; };
@@ -174,8 +176,9 @@
 				C236FEE21ED7238B008757F7 /* Swift+GIF.swift */,
 				C2954FED1EBE1CE30039CEFA /* LaunchScreen.storyboard */,
 				C236FEE01ED7234B008757F7 /* Clubhouse5secs.gif */,
-				C2CDC3731EDD8C0F00A7B51F /* Extensions */,
+				C2CDC3781EDECFDA00A7B51F /* GoogleService-Info.plist */,
 				C2954FF01EBE1CE30039CEFA /* Info.plist */,
+				C2CDC3731EDD8C0F00A7B51F /* Extensions */,
 				C2CDC3621EDC7EF400A7B51F /* Views */,
 				C2CDC3691EDC7EF400A7B51F /* Helpers */,
 				C2CDC36B1EDC7EF400A7B51F /* Extensions */,
@@ -339,6 +342,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C2E941E31ECB3AB10050E7BB /* TwitterKitResources.bundle in Resources */,
+				C2CDC3791EDECFDA00A7B51F /* GoogleService-Info.plist in Resources */,
 				C2CDC36E1EDC7EF400A7B51F /* DemoElongationCell.xib in Resources */,
 				C2CDC3701EDC7EF400A7B51F /* GridViewCell.xib in Resources */,
 				C2954FEF1EBE1CE30039CEFA /* LaunchScreen.storyboard in Resources */,

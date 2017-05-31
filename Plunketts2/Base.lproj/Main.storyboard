@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="mfB-74-OpJ">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="TLR-n4-6MN">
     <device id="retina4_0" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -15,6 +15,7 @@
         <!--Navigation Controller-->
         <scene sceneID="Mgk-1J-KMq">
             <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hHg-fz-3mH" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <navigationController storyboardIdentifier="Nav" id="mfB-74-OpJ" sceneMemberID="viewController">
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="iFG-Dl-ueZ">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
@@ -24,9 +25,8 @@
                         <segue destination="49e-Tb-3d3" kind="relationship" relationship="rootViewController" id="g1a-Sx-cba"/>
                     </connections>
                 </navigationController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="hHg-fz-3mH" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-804" y="-1"/>
+            <point key="canvasLocation" x="-1324" y="-1"/>
         </scene>
         <!--Fixtures-->
         <scene sceneID="PwA-zC-dXZ">
@@ -665,7 +665,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HuB-VB-40B" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="0.0" y="0.0"/>
+            <point key="canvasLocation" x="-429" y="-1"/>
         </scene>
         <!--Login View Controller-->
         <scene sceneID="8FZ-il-R6m">
@@ -686,7 +686,7 @@
                                 <rect key="frame" x="67" y="442" width="46" height="46"/>
                                 <state key="normal" image="FacebookIconWhite"/>
                                 <connections>
-                                    <action selector="facebookButton:" destination="TLR-n4-6MN" eventType="touchUpInside" id="mkY-Yd-x7H"/>
+                                    <action selector="facebookLogin:" destination="TLR-n4-6MN" eventType="touchUpInside" id="DeU-Ki-KfS"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xtu-wK-Byr" userLabel="Google">
@@ -718,15 +718,21 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="UfH-hK-suZ" customClass="GIDSignInButton">
+                                <rect key="frame" x="137" y="442" width="46" height="46"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="kPf-Zu-VnA" firstAttribute="leading" secondItem="Wk0-E9-QKR" secondAttribute="leadingMargin" constant="51" id="0b6-Yx-gqr"/>
                             <constraint firstItem="kPf-Zu-VnA" firstAttribute="top" secondItem="Xtu-wK-Byr" secondAttribute="top" id="Cyu-gC-iyk"/>
                             <constraint firstItem="0Lk-7t-HwR" firstAttribute="bottom" secondItem="Xtu-wK-Byr" secondAttribute="bottom" id="Dxv-xM-BUc"/>
+                            <constraint firstItem="UfH-hK-suZ" firstAttribute="top" secondItem="Xtu-wK-Byr" secondAttribute="top" id="HZw-bc-dF8"/>
                             <constraint firstItem="0Lk-7t-HwR" firstAttribute="top" secondItem="Xtu-wK-Byr" secondAttribute="top" id="M1o-er-5h2"/>
                             <constraint firstItem="Ge5-eP-Qml" firstAttribute="top" secondItem="Udk-g8-vMH" secondAttribute="bottom" constant="180" id="MPH-G1-32J"/>
                             <constraint firstItem="Xtu-wK-Byr" firstAttribute="centerX" secondItem="hvl-a2-7Ci" secondAttribute="centerX" id="TXf-U6-xQ1"/>
+                            <constraint firstItem="UfH-hK-suZ" firstAttribute="trailing" secondItem="Xtu-wK-Byr" secondAttribute="trailing" id="UNW-Lg-bmM"/>
                             <constraint firstItem="Xtu-wK-Byr" firstAttribute="leading" secondItem="kPf-Zu-VnA" secondAttribute="trailing" constant="24" id="Wr7-XB-Lqh"/>
                             <constraint firstItem="Xtu-wK-Byr" firstAttribute="top" secondItem="Udk-g8-vMH" secondAttribute="bottom" constant="422" id="Wvq-kP-M5r"/>
                             <constraint firstItem="Ge5-eP-Qml" firstAttribute="centerX" secondItem="er4-Gl-SrT" secondAttribute="centerX" id="Zzs-tV-Heb"/>
@@ -734,7 +740,9 @@
                             <constraint firstItem="kPf-Zu-VnA" firstAttribute="bottom" secondItem="Xtu-wK-Byr" secondAttribute="bottom" id="ckh-tf-YfN"/>
                             <constraint firstItem="Xtu-wK-Byr" firstAttribute="top" secondItem="er4-Gl-SrT" secondAttribute="bottom" constant="16" id="d2b-TX-m6W"/>
                             <constraint firstItem="kKf-rS-fiu" firstAttribute="top" secondItem="Xtu-wK-Byr" secondAttribute="bottom" constant="80" id="dEj-ac-dVQ"/>
+                            <constraint firstItem="UfH-hK-suZ" firstAttribute="leading" secondItem="Xtu-wK-Byr" secondAttribute="leading" id="dvr-Gu-3hJ"/>
                             <constraint firstItem="0Lk-7t-HwR" firstAttribute="leading" secondItem="Xtu-wK-Byr" secondAttribute="trailing" constant="19" id="h5H-e9-n1G"/>
+                            <constraint firstItem="UfH-hK-suZ" firstAttribute="bottom" secondItem="Xtu-wK-Byr" secondAttribute="bottom" id="ocI-Wg-Eud"/>
                             <constraint firstItem="hvl-a2-7Ci" firstAttribute="top" secondItem="Wk0-E9-QKR" secondAttribute="top" id="rrA-4D-7XI"/>
                             <constraint firstItem="hvl-a2-7Ci" firstAttribute="leading" secondItem="Wk0-E9-QKR" secondAttribute="leading" id="uPc-vg-VZ4"/>
                             <constraint firstItem="er4-Gl-SrT" firstAttribute="centerX" secondItem="Xtu-wK-Byr" secondAttribute="centerX" id="unM-v2-54K"/>
@@ -745,11 +753,12 @@
                     <connections>
                         <outlet property="facebookButton" destination="kPf-Zu-VnA" id="FJc-BH-uOr"/>
                         <outlet property="loginGIF" destination="hvl-a2-7Ci" id="br8-n5-dmY"/>
+                        <outlet property="signInButton" destination="UfH-hK-suZ" id="7qq-fk-oXS"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="IDQ-Ov-uOz" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1693.125" y="-1.056338028169014"/>
+            <point key="canvasLocation" x="-2107.5" y="-1.056338028169014"/>
         </scene>
         <!--Twitter-->
         <scene sceneID="4LW-O2-2Ut">
@@ -846,7 +855,7 @@
         <image name="St. Oliver Plunkett Eoghan Ruadh" width="60" height="60"/>
         <image name="Twitter-48" width="24" height="24"/>
         <image name="TwitterIconWhite" width="512" height="512"/>
-        <image name="Upload-50" width="50" height="50"/>
+        <image name="Upload-50" width="25" height="25"/>
         <image name="carbon" width="1920" height="1280"/>
         <image name="hurling_icon_small copy" width="30" height="31"/>
     </resources>

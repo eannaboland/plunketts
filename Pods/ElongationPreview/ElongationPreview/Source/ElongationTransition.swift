@@ -41,10 +41,20 @@ public class ElongationTransition: NSObject {
     let viewController = context.viewController(forKey: rootKey)
     
     if let navi = viewController as? UINavigationController {
+        
+        for case let tabBarController as UITabBarController in navi.viewControllers {
+            
+            if let elongationViewController = tabBarController.selectedViewController as? ElongationViewController {
+                return elongationViewController
+            }
+        }
+        
       for case let elongationViewController as ElongationViewController in navi.viewControllers {
         return elongationViewController
       }
-    } else if let elongationViewController = viewController as? ElongationViewController {
+    }
+    
+    if let elongationViewController = viewController as? ElongationViewController {
       return elongationViewController
     }
     

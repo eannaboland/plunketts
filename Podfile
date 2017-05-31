@@ -11,4 +11,9 @@ pod 'Alamofire', '~> 4.4'
 pod 'SwiftyJSON'
 pod 'ElongationPreview'
 pod 'RAMAnimatedTabBarController', "~> 2.0.13"
+pod ‘Firebase’
+pod 'Firebase/Core'
+pod 'FirebaseAuth’
+pod 'FirebaseDatabase’
+pod ‘GoogleSignIn’
 end

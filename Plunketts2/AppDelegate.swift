@@ -10,10 +10,12 @@ import UIKit
 import Fabric
 import TwitterKit
 import FBSDKCoreKit
+import Firebase
+import GoogleSignIn
 
 
 @UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+class AppDelegate: UIResponder, UIApplicationDelegate, GIDSignInDelegate {
 
     var window: UIWindow?
 
@@ -24,8 +26,26 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //Twitter integration
         Fabric.with([Twitter.self])
         
+        //Firebase integration
+        FirebaseApp.configure()
+        
+        
+        
+      
+        GIDSignIn.sharedInstance().clientID = FirebaseApp.app()?.options.clientID
+        GIDSignIn.sharedInstance().delegate = self
+        
         //Facebook integration
         FBSDKApplicationDelegate.sharedInstance().application(application, didFinishLaunchingWithOptions: launchOptions)
+        
+        //Keep me logged in
+        /*let isUserLoggedIn:Bool = NSUserDefaults.standardUserDefaults().boolForKey("isUserLoggedIn")
+        if(isUserLoggedIn) {
+            let mainStoryboard = UIStoryboard(name: "Main" , bundle: nil)
+            let protectedPage = mainStoryboard.instantiateViewControllerWithIdentifier("FixtureList") as! FixtureListViewController
+            window!.rootViewController = protectedPage
+            window!.makeKeyAndVisible()
+        }*/
         
         
         UINavigationBar.appearance().barTintColor = UIColor(red: 41/255, green: 47/255, blue: 51/255, alpha: 1)
@@ -37,14 +57,74 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 
-    func application(_ app: UIApplication, open url: URL, options: [UIApplicationOpenURLOptionsKey : Any] = [:]) -> Bool {
 
+    func application(_ app: UIApplication, open url: URL, options: [UIApplicationOpenURLOptionsKey : Any] = [:]) -> Bool {
+        if (url.scheme!.isEqual("fb143450039533465")){
+            return FBSDKApplicationDelegate.sharedInstance().application(app, open: url, options: options)
         
-        let handled = FBSDKApplicationDelegate.sharedInstance().application(app, open: url, sourceApplication: options[UIApplicationOpenURLOptionsKey.sourceApplication] as! String, annotation: options[UIApplicationOpenURLOptionsKey.annotation])
+        } else {
+            return GIDSignIn.sharedInstance().handle(url, sourceApplication:options[UIApplicationOpenURLOptionsKey.sourceApplication] as? String,
+                                              annotation: [:])
+        }
+
+ 
+
+    
+
+    }
+        /*
+        return GIDSignIn.sharedInstance().handle(url,
+                                                 sourceApplication: sourceApplication,
+                                                 annotation: annotation)*/
         
         // Add any custom logic here.
-        return handled;
+      
     
+    func sign(_ signIn: GIDSignIn!, didSignInFor user: GIDGoogleUser!, withError error: Error?) {
+        // ...
+        if let error = error {
+            // ...
+            return
+        }
+        
+        guard let authentication = user.authentication else { return }
+        let credential = GoogleAuthProvider.credential(withIDToken: authentication.idToken,
+                                                       accessToken: authentication.accessToken)
+        Auth.auth().signIn(with: credential) { (user, error) in
+            if let error = error {
+                print("Login error: \(error.localizedDescription)")
+                let alertController = UIAlertController(title: "Login Error", message: error.localizedDescription, preferredStyle: .alert)
+                let okayAction = UIAlertAction(title: "OK", style: .cancel, handler: nil)
+                alertController.addAction(okayAction)
+                
+                if let window = self.window{
+                    window.rootViewController?.present(alertController, animated: true, completion: nil)
+                }
+                
+                return
+            }
+            
+            // Present the main view
+            self.nextScreen()
+            
+        }
+    }
+    
+    
+    func nextScreen() {
+        
+        let storyBoard : UIStoryboard = UIStoryboard(name: "Main", bundle:nil)
+        
+        let nextViewController = storyBoard.instantiateViewController(withIdentifier: "Nav") as! UINavigationController
+        if let window = self.window{
+            window.rootViewController = nextViewController
+        }
+        
+    }
+
+    func sign(_ signIn: GIDSignIn!, didDisconnectWith user: GIDGoogleUser!, withError error: Error!) {
+        // Perform any operations when the user disconnects from app here.
+        // ...
     }
     
     
