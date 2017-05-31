@@ -19,4 +19,12 @@ class TwitterViewController:  TWTRTimelineViewController {
         
         TWTRTweetView.appearance().theme = .dark
     }
+    
+    
+    override func viewWillAppear(_ animated: Bool) {
+        
+        //Set Navigation bar title
+        self.parent?.title = "Twitter"
+    }
+    
 }

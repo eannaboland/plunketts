@@ -122,7 +122,11 @@ class FixtureListViewController: UITableViewController {
     }
     
     
-
+    override func viewWillAppear(_ animated: Bool) {
+        
+        //Set Navigation bar title
+        self.parent?.title = "Fixtures"
+    }
     
     
     /*
@@ -156,11 +160,19 @@ class FixtureListViewController: UITableViewController {
         //cell.backgroundColor = UIColor.red
         cell.layoutMargins = UIEdgeInsets.zero
         //cell.contentView.layoutMargins.bottom = 20
+        let backgroundView = UIView()
+        backgroundView.backgroundColor = UIColor(red:0.22, green:0.26, blue:0.28, alpha:1.0)
+        cell.selectedBackgroundView = backgroundView
+        
+        
+        
         cell.teamName?.text = fixtures[indexPath.row].teamName
         cell.competition?.text = fixtures[indexPath.row].competition
         cell.opponents?.text = fixtures[indexPath.row].awayTeam
         cell.fixtureDate?.text = fixtures[indexPath.row].date
         cell.fixtureTime?.text = fixtures[indexPath.row].time
+        
+       
         
         
         let awayTeam = UIImage(named: fixtures[indexPath.row].awayTeam!)

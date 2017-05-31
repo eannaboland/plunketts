@@ -31,11 +31,7 @@ class FirstViewController: UIViewController, UITextFieldDelegate, UIImagePickerC
     @IBOutlet weak var fixtureDateLabel: UILabel!
     @IBOutlet weak var calendarButton: UIButton!
     @IBOutlet weak var fixtureTimeLabel: UILabel!
-    
-    
-    
-    var eventStore = EKEventStore()
-    var calendars:Array<EKCalendar> = []
+   
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -84,21 +80,7 @@ class FirstViewController: UIViewController, UITextFieldDelegate, UIImagePickerC
         // Do any additional setup after loading the view, typically from a nib.
         
         
-        
-        // get permission
-        eventStore.requestAccess(to: EKEntityType.event, completion:
-            {(granted, error) in
-                if !granted {
-                    print("Access to store not granted")
-                }
-        })
-        
-        // you need calender's permission for the reminders as they live there
-        calendars = eventStore.calendars(for: EKEntityType.event)
-        
-        for calendar in calendars as [EKCalendar] {
-            print("Calendar = \(calendar.title)")
-        }
+
 
     
     }
@@ -125,28 +107,26 @@ class FirstViewController: UIViewController, UITextFieldDelegate, UIImagePickerC
             print (fixtureDate as Any)
             
             
-            let reminder = EKEvent(eventStore: self.eventStore)
+            let title = (fixture?.teamName)! + " vs " + (fixture?.awayTeam)! + "\r\n" + (fixture?.competition)! + "\r\n" + "Location when I code it"
+            let notes = (fixture?.competition)! + "\r\n" + "Location when I code it"
+            let startDate = NSDate() as Date
             
-            reminder.title = (fixture?.teamName)! + " vs " + (fixture?.awayTeam)! + "\r\n" + (fixture?.competition)! + "\r\n" + "Location when I code it"
-            reminder.notes = (fixture?.competition)! + "\r\n" + "Location when I code it"
-            reminder.calendar = eventStore.defaultCalendarForNewEvents
-            reminder.startDate = NSDate() as Date
-            reminder.endDate = reminder.startDate.addingTimeInterval(2 * 60 * 60) as Date
+            let result = CalendarHelper.addToCalendar(title: title, notes: notes, startDate: startDate)
             
-            do {
-                try eventStore.save(reminder, span: .thisEvent, commit: true)
-            } catch let error {
-                print("Reminder failed with error \(error.localizedDescription)")
+            if (result) {
+                let toast = Toast(text: "Added to Calendar", delay: 1.0, duration: Delay.long)
+                ToastView.appearance().cornerRadius = 0
+                ToastView.appearance().bottomOffsetPortrait = 0
+                //ToastView.appearance().width
+                toast.show()
+            } else {
+                let toast = Toast(text: "Failed to add to Calendar", delay: 1.0, duration: Delay.long)
+                ToastView.appearance().cornerRadius = 0
+                ToastView.appearance().bottomOffsetPortrait = 0
+                //ToastView.appearance().width
+                toast.show()
             }
-            print("Saved Event")
             
-
-            
-            let toast = Toast(text: "Added to Calendar", delay: 1.0, duration: Delay.long)
-            ToastView.appearance().cornerRadius = 0
-            ToastView.appearance().bottomOffsetPortrait = 0
-            //ToastView.appearance().width
-            toast.show()
         
             
             //toast.cancel()

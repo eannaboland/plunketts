@@ -32,6 +32,10 @@
 		C2CDC3711EDC7EF400A7B51F /* LoremSwiftum.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC36A1EDC7EF400A7B51F /* LoremSwiftum.swift */; };
 		C2CDC3721EDC7EF400A7B51F /* UIFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC36C1EDC7EF400A7B51F /* UIFont.swift */; };
 		C2CDC3791EDECFDA00A7B51F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C2CDC3781EDECFDA00A7B51F /* GoogleService-Info.plist */; };
+		C2CDC37D1EDEE6B100A7B51F /* EventCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC37C1EDEE6B100A7B51F /* EventCell.swift */; };
+		C2DC50A91EDEEA6A004A158A /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2CDC3601EDC7E3D00A7B51F /* Event.swift */; };
+		C2DC50AB1EDEEDEA004A158A /* Calendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DC50AA1EDEEDEA004A158A /* Calendar.swift */; };
+		C2DC50AD1EDF0275004A158A /* EventCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C2DC50AC1EDF0275004A158A /* EventCell.xib */; };
 		C2E941E11ECB3AB10050E7BB /* Fabric.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2E941DD1ECB3AB10050E7BB /* Fabric.framework */; };
 		C2E941E21ECB3AB10050E7BB /* TwitterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2E941DE1ECB3AB10050E7BB /* TwitterKit.framework */; };
 		C2E941E31ECB3AB10050E7BB /* TwitterKitResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C2E941DF1ECB3AB10050E7BB /* TwitterKitResources.bundle */; };
@@ -84,6 +88,9 @@
 		C2CDC36A1EDC7EF400A7B51F /* LoremSwiftum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoremSwiftum.swift; sourceTree = "<group>"; };
 		C2CDC36C1EDC7EF400A7B51F /* UIFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIFont.swift; sourceTree = "<group>"; };
 		C2CDC3781EDECFDA00A7B51F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		C2CDC37C1EDEE6B100A7B51F /* EventCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventCell.swift; sourceTree = "<group>"; };
+		C2DC50AA1EDEEDEA004A158A /* Calendar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Calendar.swift; sourceTree = "<group>"; };
+		C2DC50AC1EDF0275004A158A /* EventCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EventCell.xib; sourceTree = "<group>"; };
 		C2E941DD1ECB3AB10050E7BB /* Fabric.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Fabric.framework; sourceTree = SOURCE_ROOT; };
 		C2E941DE1ECB3AB10050E7BB /* TwitterKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterKit.framework; sourceTree = SOURCE_ROOT; };
 		C2E941DF1ECB3AB10050E7BB /* TwitterKitResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = TwitterKitResources.bundle; path = TwitterKit.framework/Versions/A/Resources/TwitterKitResources.bundle; sourceTree = SOURCE_ROOT; };
@@ -218,6 +225,8 @@
 			children = (
 				C2CDC3671EDC7EF400A7B51F /* GridViewCell.swift */,
 				C2CDC3681EDC7EF400A7B51F /* GridViewCell.xib */,
+				C2DC50AC1EDF0275004A158A /* EventCell.xib */,
+				C2CDC37C1EDEE6B100A7B51F /* EventCell.swift */,
 			);
 			path = GridViewCell;
 			sourceTree = "<group>";
@@ -225,6 +234,7 @@
 		C2CDC3691EDC7EF400A7B51F /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
+				C2DC50AA1EDEEDEA004A158A /* Calendar.swift */,
 				C2CDC36A1EDC7EF400A7B51F /* LoremSwiftum.swift */,
 			);
 			path = Helpers;
@@ -346,6 +356,7 @@
 				C2CDC36E1EDC7EF400A7B51F /* DemoElongationCell.xib in Resources */,
 				C2CDC3701EDC7EF400A7B51F /* GridViewCell.xib in Resources */,
 				C2954FEF1EBE1CE30039CEFA /* LaunchScreen.storyboard in Resources */,
+				C2DC50AD1EDF0275004A158A /* EventCell.xib in Resources */,
 				C2954FEC1EBE1CE30039CEFA /* Assets.xcassets in Resources */,
 				C236FEE11ED7234B008757F7 /* Clubhouse5secs.gif in Resources */,
 				C2375E001ECDA0E6007D6A09 /* Main.storyboard in Resources */,
@@ -439,6 +450,8 @@
 				C2CDC36F1EDC7EF400A7B51F /* GridViewCell.swift in Sources */,
 				C26D5C551ECF47D3006FF3F9 /* InsertCalendarEvent.swift in Sources */,
 				C236FEE31ED7238B008757F7 /* Swift+GIF.swift in Sources */,
+				C2CDC37D1EDEE6B100A7B51F /* EventCell.swift in Sources */,
+				C2DC50AB1EDEEDEA004A158A /* Calendar.swift in Sources */,
 				C2CDC35B1EDC7BEC00A7B51F /* UITableView.swift in Sources */,
 				C236FEDF1ED70C77008757F7 /* LoginViewController.swift in Sources */,
 				C2954FE31EBE1CE30039CEFA /* AppDelegate.swift in Sources */,
@@ -453,6 +466,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2DC50A91EDEEA6A004A158A /* Event.swift in Sources */,
 				C2954FFA1EBE1CE30039CEFA /* Plunketts2Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

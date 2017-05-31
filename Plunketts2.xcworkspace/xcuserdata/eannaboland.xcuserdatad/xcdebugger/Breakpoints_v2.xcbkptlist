@@ -26,7 +26,7 @@
                   moduleName = "RAMAnimatedTabBarController"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/eannaboland/DevApps/Plunketts2/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/Animations/RotationAnimation/RAMRotationAnimation.swift"
-                  timestampString = "517921019.405723"
+                  timestampString = "517933472.758022"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "125"
@@ -41,7 +41,7 @@
                   moduleName = "RAMAnimatedTabBarController"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/eannaboland/DevApps/Plunketts2/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/Animations/RotationAnimation/RAMRotationAnimation.swift"
-                  timestampString = "517921019.408226"
+                  timestampString = "517933472.760771"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -49,22 +49,6 @@
                   offsetFromSymbolStart = "4">
                </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Plunketts2/AppDelegate.swift"
-            timestampString = "517921016.786267"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "108"
-            endingLineNumber = "108"
-            landmarkName = "sign(_:didSignInFor:withError:)"
-            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

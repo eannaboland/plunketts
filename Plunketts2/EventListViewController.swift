@@ -40,22 +40,23 @@ class EventListViewController: ElongationViewController {
             
         tableView.delegate = self
         //tableView.backgroundColor = UIColor.red
+        
+        
         for eventName in eventNames {
+            
+            
             //let randomEventIndex = Int(arc4random_uniform(UInt32(eventNames.count)))
             let event = Event()
             
             event.create(eventName: eventName, eventDate: eventDate, eventTime: eventTime)
             events.append(event)
-            
-            
-            
 
             
         }
     }
     
     
-    
+
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         

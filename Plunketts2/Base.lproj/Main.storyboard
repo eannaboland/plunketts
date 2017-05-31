@@ -15,7 +15,6 @@
         <!--Navigation Controller-->
         <scene sceneID="Mgk-1J-KMq">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="hHg-fz-3mH" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <navigationController storyboardIdentifier="Nav" id="mfB-74-OpJ" sceneMemberID="viewController">
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="iFG-Dl-ueZ">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
@@ -25,6 +24,7 @@
                         <segue destination="49e-Tb-3d3" kind="relationship" relationship="rootViewController" id="g1a-Sx-cba"/>
                     </connections>
                 </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hHg-fz-3mH" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-1324" y="-1"/>
         </scene>
@@ -270,7 +270,7 @@
                             <outlet property="delegate" destination="Gmp-OO-24W" id="tAS-hT-Tdh"/>
                         </connections>
                     </tableView>
-                    <tabBarItem key="tabBarItem" title="Fixtures" image="hurling_icon_small copy" selectedImage="hurling_icon_small copy" id="WTH-92-ZLe"/>
+                    <tabBarItem key="tabBarItem" title="Fixtures" image="hurlingIcon" selectedImage="hurlingIcon" id="WTH-92-ZLe"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eFz-AH-b56" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -659,7 +659,6 @@
                     <connections>
                         <segue destination="Gmp-OO-24W" kind="relationship" relationship="viewControllers" id="djb-qy-kfd"/>
                         <segue destination="ewC-Oq-bCM" kind="relationship" relationship="viewControllers" id="DuQ-H7-zb5"/>
-                        <segue destination="Afe-oD-wa5" kind="relationship" relationship="viewControllers" id="2xo-cA-1sm"/>
                         <segue destination="vOh-Vj-EtW" kind="relationship" relationship="viewControllers" id="hZ2-a5-sNR"/>
                     </connections>
                 </tabBarController>
@@ -789,7 +788,7 @@
             </objects>
             <point key="canvasLocation" x="-86" y="790"/>
         </scene>
-        <!--Item-->
+        <!--Event-->
         <scene sceneID="Vta-Yc-ddm">
             <objects>
                 <tableViewController id="vOh-Vj-EtW" customClass="ViewController" customModule="Plunketts2" customModuleProvider="target" sceneMemberID="viewController">
@@ -802,7 +801,7 @@
                             <outlet property="delegate" destination="vOh-Vj-EtW" id="BY9-aW-Jhu"/>
                         </connections>
                     </tableView>
-                    <tabBarItem key="tabBarItem" title="Item" id="PoZ-fm-Ig6"/>
+                    <tabBarItem key="tabBarItem" title="Event" image="Champagne-26" id="PoZ-fm-Ig6"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="BGV-VN-2Og" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -857,6 +856,7 @@
         <image name="TwitterIconWhite" width="512" height="512"/>
         <image name="Upload-50" width="25" height="25"/>
         <image name="carbon" width="1920" height="1280"/>
+        <image name="hurlingIcon" width="30" height="31"/>
         <image name="hurling_icon_small copy" width="30" height="31"/>
     </resources>
 </document>

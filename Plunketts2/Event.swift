@@ -1,5 +1,5 @@
 //
-//  Villa.swift
+//  Event.swift
 //  Plunketts2
 //
 //  Created by Eanna Boland on 29/05/2017.
@@ -9,7 +9,7 @@
 import Foundation
 
 
-struct DynamicEvent {
+struct  DynamicEvent{
     
     let country: String
     let eventTitle: String

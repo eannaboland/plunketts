@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" shouldIndentWhileEditing="NO" rowHeight="500" id="Gkf-ql-LG7" customClass="EventCell" customModule="Plunketts2" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="353" height="235"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Gkf-ql-LG7" id="wMU-A7-NkY">
+                <rect key="frame" x="0.0" y="0.0" width="353" height="235"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" misplaced="YES" axis="vertical" distribution="fillEqually" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="32D-5I-abz">
+                        <rect key="frame" x="2" y="8" width="345" height="106"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZWv-hq-aHF">
+                                <rect key="frame" x="137.5" y="0.0" width="70" height="30"/>
+                                <state key="normal" title="Interested"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l77-0K-gZd">
+                                <rect key="frame" x="123" y="38" width="99" height="30"/>
+                                <state key="normal" title="Not Interested"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CYF-p3-x08">
+                                <rect key="frame" x="117" y="76" width="111" height="30"/>
+                                <state key="normal" title="Add to Calendar"/>
+                            </button>
+                        </subviews>
+                    </stackView>
+                </subviews>
+                <color key="backgroundColor" red="0.93333333333333335" green="0.93333333333333335" blue="0.93333333333333335" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstItem="32D-5I-abz" firstAttribute="leading" secondItem="wMU-A7-NkY" secondAttribute="leading" constant="10" id="HY7-zg-TbS"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="32D-5I-abz" secondAttribute="trailing" constant="-10" id="JRz-hU-5Qh"/>
+                    <constraint firstItem="32D-5I-abz" firstAttribute="top" secondItem="wMU-A7-NkY" secondAttribute="topMargin" id="Nwl-CN-4yW"/>
+                </constraints>
+            </tableViewCellContentView>
+            <edgeInsets key="layoutMargins" top="0.0" left="0.0" bottom="0.0" right="0.0"/>
+            <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+            <connections>
+                <outlet property="AddtoCalendar" destination="CYF-p3-x08" id="REX-Qk-Xoc"/>
+                <outlet property="interested" destination="ZWv-hq-aHF" id="IF4-Pg-pLN"/>
+                <outlet property="notInterested" destination="l77-0K-gZd" id="7w9-OA-Qsv"/>
+            </connections>
+            <point key="canvasLocation" x="-8.5" y="16.5"/>
+        </tableViewCell>
+    </objects>
+</document>

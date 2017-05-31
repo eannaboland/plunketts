@@ -61,7 +61,7 @@
                             <view clipsSubviews="YES" contentMode="center" translatesAutoresizingMaskIntoConstraints="NO" id="qZa-na-3bt" userLabel="ScalableView">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="190"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DPn-yJ-78f">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DPn-yJ-78f">
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="190"/>
                                         <color key="backgroundColor" red="0.52865175289999999" green="0.90654074630000003" blue="0.95629221200000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </imageView>
@@ -83,16 +83,16 @@
                                 </constraints>
                             </view>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="aXe-Sf-wBw">
-                                <rect key="frame" x="163.5" y="68.5" width="49" height="53"/>
+                                <rect key="frame" x="0.0" y="68.5" width="375" height="53"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SCD-5B-3Ps">
-                                        <rect key="frame" x="0.0" y="0.0" width="49" height="28.5"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SCD-5B-3Ps">
+                                        <rect key="frame" x="163" y="0.0" width="49" height="28.5"/>
                                         <fontDescription key="fontDescription" name="Roboto-Bold" family="Roboto" pointSize="24"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Country" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="99c-0B-Lao">
-                                        <rect key="frame" x="0.0" y="36.5" width="49" height="16.5"/>
+                                        <rect key="frame" x="163" y="36.5" width="49" height="16.5"/>
                                         <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="14"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
@@ -107,8 +107,10 @@
                             <constraint firstAttribute="height" constant="190" id="PaE-fU-5mo"/>
                             <constraint firstAttribute="right" secondItem="qZa-na-3bt" secondAttribute="right" id="aew-Nv-8zI"/>
                             <constraint firstItem="aXe-Sf-wBw" firstAttribute="centerX" secondItem="6xH-i0-pWy" secondAttribute="centerX" id="dOB-LT-DQa"/>
+                            <constraint firstItem="aXe-Sf-wBw" firstAttribute="leading" secondItem="6xH-i0-pWy" secondAttribute="leading" id="j34-tf-aJq"/>
                             <constraint firstAttribute="bottom" secondItem="qZa-na-3bt" secondAttribute="bottom" id="lrB-gW-HSp"/>
                             <constraint firstItem="qZa-na-3bt" firstAttribute="left" secondItem="6xH-i0-pWy" secondAttribute="left" id="sfP-l6-1fd"/>
+                            <constraint firstAttribute="trailing" secondItem="aXe-Sf-wBw" secondAttribute="trailing" id="tiq-S9-XY4"/>
                         </constraints>
                     </view>
                 </subviews>

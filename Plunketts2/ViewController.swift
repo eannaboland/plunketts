@@ -29,6 +29,12 @@ class ViewController: ElongationViewController {
         setup()
     }
     
+    override func viewWillAppear(_ animated: Bool) {
+        
+        //Set Navigation bar title
+        self.parent?.title = "Events"
+    }
+    
     override var preferredStatusBarStyle: UIStatusBarStyle {
         return .lightContent
     }
@@ -38,6 +44,7 @@ class ViewController: ElongationViewController {
         guard let detailViewController = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: id) as? DetailViewController else { return }
         let event = datasource[indexPath.row]
         detailViewController.title = event.title
+        detailViewController.event = event
         expand(viewController: detailViewController)
     }
     

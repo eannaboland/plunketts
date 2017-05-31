@@ -28,7 +28,6 @@ class LoginViewController: UIViewController, GIDSignInUIDelegate   {
         loginGIF.loadGif(name: "Clubhouse5secs")
 
         GIDSignIn.sharedInstance().uiDelegate = self
-        GIDSignIn.sharedInstance().signIn()
         signInButton.style = GIDSignInButtonStyle.iconOnly
         
         // TODO(developer) Configure the sign-in button look/feel
